@@ -1,0 +1,1808 @@
+# Galician translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-08-29 02:24+0200\n"
+"PO-Revision-Date: 2022-08-29 02:25+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: gl\n"
+"Language-Team: gl <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: resultados/views.py:529 resultados/views.py:538 resultados/views.py:554
+#: resultados/views.py:563 resultados/views.py:579 resultados/views.py:595
+msgid "FUERTE"
+msgstr "FORTE"
+
+#: resultados/views.py:531 resultados/views.py:540 resultados/views.py:556
+#: resultados/views.py:565 resultados/views.py:581 resultados/views.py:597
+msgid "MEDIA"
+msgstr ""
+
+#: resultados/views.py:533 resultados/views.py:542 resultados/views.py:558
+#: resultados/views.py:567 resultados/views.py:583 resultados/views.py:599
+msgid "DESIQUILIBRADA"
+msgstr ""
+
+#: resultados/views.py:535 resultados/views.py:544 resultados/views.py:560
+#: resultados/views.py:569 resultados/views.py:585 resultados/views.py:601
+msgid "DÉBIL"
+msgstr ""
+
+#: resultados/views.py:619
+#, python-brace-format
+msgid "Informe de {0} {1}"
+msgstr ""
+
+#: resultados/views.py:640 templates/resultados/datos_alumno.html:23
+msgid "Alias"
+msgstr ""
+
+#: resultados/views.py:644 templates/resultados/datos_alumno.html:27
+msgid "DNI"
+msgstr ""
+
+#: resultados/views.py:648 templates/resultados/datos_alumno.html:31
+msgid "Fecha de nacimiento"
+msgstr "Data de nacemento"
+
+#: resultados/views.py:652 templates/resultados/datos_alumno.html:35
+msgid "Sexo"
+msgstr ""
+
+#: resultados/views.py:674 templates/resultados/datos_alumno.html:42
+msgid "Resultados de las preguntas"
+msgstr "Resultados das preguntas"
+
+#: resultados/views.py:694 templates/resultados/datos_alumno.html:45
+msgid "Pregunta"
+msgstr ""
+
+#: resultados/views.py:694 templates/resultados/datos_alumno.html:45
+msgid "Tipo"
+msgstr ""
+
+#: resultados/views.py:715 templates/resultados/datos_alumno.html:73
+#: templates/resultados/datos_alumno.html:118
+#: templates/resultados/datos_alumno.html:162
+msgid "¿Por qué?"
+msgstr "Por que?"
+
+#: resultados/views.py:754 templates/resultados/datos_alumno.html:219
+msgid "Análisis de resultados"
+msgstr "Análise de resultados"
+
+#: resultados/views.py:760
+msgid "1.- POSICIÓN SOCIOMÉTRICA (SP, SN, EP Y EN)"
+msgstr "1.- POSICIÓN SOCIOMÉTRICA (SP, SN, EP E EN)"
+
+#: resultados/views.py:780
+msgid "POSICIÓN SOC"
+msgstr ""
+
+#: resultados/views.py:808
+msgid "2.- ESTATUS POSITIVO (SP) Y NIVEL MEDIO DE POPULARIDAD (NP)"
+msgstr "2.- ESTATUS POSITIVO (SP) E NIVEL MEDIO DE POPULARIDADE (NP)"
+
+#: resultados/views.py:814
+msgid "NIVEL SP"
+msgstr ""
+
+#: resultados/views.py:815
+msgid "VALOR NP"
+msgstr ""
+
+#: resultados/views.py:839
+msgid "3.- ESTATUS NEGATIVO (SN) Y NIVEL MEDIO DE RECHAZO (NN)"
+msgstr "3.- ESTATUS NEGATIVO (SN) E NIVEL MEDIO DE REXEITAMENTO (NN)"
+
+#: resultados/views.py:845
+msgid "NIVEL SN"
+msgstr ""
+
+#: resultados/views.py:846
+msgid "VALOR NN"
+msgstr ""
+
+#: resultados/views.py:870
+msgid "4.- AMISTADES (RP)"
+msgstr "4.- AMIZADES (RP)"
+
+#: resultados/views.py:876 resultados/views.py:913 resultados/views.py:1076
+#: resultados/views.py:1204 templates/resultados/datos_alumno.html:279
+#: templates/resultados/datos_alumno.html:305
+#: templates/resultados/datos_alumno.html:408
+#: templates/resultados/datos_alumno.html:479
+msgid "NOMBRE"
+msgstr "NOME"
+
+#: resultados/views.py:877 resultados/views.py:914 resultados/views.py:952
+#: resultados/views.py:1077 resultados/views.py:1205
+#: templates/resultados/datos_alumno.html:280
+#: templates/resultados/datos_alumno.html:306
+#: templates/resultados/datos_alumno.html:333
+#: templates/resultados/datos_alumno.html:409
+#: templates/resultados/datos_alumno.html:480
+msgid "GRADO"
+msgstr "GRAO"
+
+#: resultados/views.py:888 resultados/views.py:925
+msgid "No tiene"
+msgstr "Non ten"
+
+#: resultados/views.py:907
+msgid "5.- ENEMISTADES (RN)"
+msgstr "5.- ENIMIZADES (RN)"
+
+#: resultados/views.py:944
+msgid "6.- OPOSICIÓN DE SENTIMIENTO (OS)"
+msgstr "6.- OPOSICIÓN DE SENTIMENTO (OS)"
+
+#: resultados/views.py:950 templates/resultados/datos_alumno.html:331
+msgid "ELIGE"
+msgstr "ELIXE"
+
+#: resultados/views.py:951 templates/resultados/datos_alumno.html:332
+msgid "RECHAZA"
+msgstr "REXEITA"
+
+#: resultados/views.py:979
+msgid "7.- GRADO DE SOCIABILIDAD O EXPANSIVIDAD (EP)"
+msgstr "7.- GRAO DE SOCIABILIDADE OU EXPANSIVIDADE (EP)"
+
+#: resultados/views.py:984
+msgid "VALOR EP"
+msgstr ""
+
+#: resultados/views.py:985
+msgid "NIVEL EP"
+msgstr ""
+
+#: resultados/views.py:1009
+msgid "8.- EXPECTATIVA DE SER ELEGIDO (PP)"
+msgstr "8.- EXPECTATIVA DE SER ELIXIDO (PP)"
+
+#: resultados/views.py:1015
+msgid "VALOR PP"
+msgstr ""
+
+#: resultados/views.py:1016
+msgid "NIVEL PP"
+msgstr ""
+
+#: resultados/views.py:1040
+msgid "9.- GRADO DE ACIERTO EN LA EXPECTATIVA DE SER ELEGIDO (PAP)"
+msgstr "9.- GRAO DE ACERTO NA EXPECTATIVA"
+
+#: resultados/views.py:1046
+msgid "VALOR PAP"
+msgstr ""
+
+#: resultados/views.py:1047
+msgid "NIVEL PAP"
+msgstr ""
+
+#: resultados/views.py:1070
+msgid ""
+"10.- OPOSICIÓN ENTRE LA EXPECTATIVA DE SER ELEGIDO Y LA REALIDAD DE SER "
+"RECHAZADO (OIP)"
+msgstr ""
+"10.- OPOSICIÓN ENTRE A EXPECTATIVA DE SER ELIXIDO E A REALIDADE DE SER "
+"REXEITADO (OIP)"
+
+#: resultados/views.py:1088 resultados/views.py:1216
+#: templates/resultados/datos_alumno.html:421
+#: templates/resultados/datos_alumno.html:492
+msgid "No hay"
+msgstr "Non hai"
+
+#: resultados/views.py:1107
+msgid "11.- GRADO DE ANTIPATÍA (EN)"
+msgstr "11.- GRAO DE ANTIPATÍA (EN)"
+
+#: resultados/views.py:1113
+msgid "VALOR EN"
+msgstr ""
+
+#: resultados/views.py:1114
+msgid "NIVEL EN"
+msgstr ""
+
+#: resultados/views.py:1137
+msgid "12.- EXPECTATIVA DE SER RECHAZADO (PN)"
+msgstr "12- EXPECTATIVA DE SER REXEITADO (PN)"
+
+#: resultados/views.py:1143
+msgid "VALOR PN"
+msgstr ""
+
+#: resultados/views.py:1144
+msgid "NIVEL PN"
+msgstr ""
+
+#: resultados/views.py:1167
+msgid "13.- GRADO DE ACIERTO EN LA EXPECTATIVA DE SER RECHAZADO (PAN)"
+msgstr "13.- GRAO DE ACERTO NA EXPECTATIVA DE SER REXEITADO (PAN)"
+
+#: resultados/views.py:1173
+msgid "VALOR PAN"
+msgstr ""
+
+#: resultados/views.py:1174
+msgid "NIVEL PAN"
+msgstr ""
+
+#: resultados/views.py:1197
+msgid ""
+"14.- OPOSICIÓN ENTRE LA EXPECTATIVA DE SER RECHAZADO A LA REALIDAD DE SER "
+"ELEGIDO (OIN)"
+msgstr ""
+"14.- OPOSICIÓN ENTRE A EXPECTATIVA DE SER REXEITADO Á REALIDADE DE SER "
+"ELIXIDO (OIN)"
+
+#: resultados/views.py:1235
+msgid "15.- IMPRESIÓN QUE TIENE EL GRUPO DE SER ELEGIDO POR EL/ELLA (IP E IMP)"
+msgstr "15.- IMPRESIÓN QUE TEN O GRUPO DE SER ELIXIDO POR EL/ELA (IP E IMP)"
+
+#: resultados/views.py:1241
+msgid "VALOR IP"
+msgstr ""
+
+#: resultados/views.py:1242
+msgid "NIVEL IP"
+msgstr ""
+
+#: resultados/views.py:1243
+msgid "NIVEL IMP"
+msgstr ""
+
+#: resultados/views.py:1267
+msgid "16.- IMPRESIÓN QUE TIENE EL GRUPO DE SER RECHAZADO POR EL/ELLA (IN E IMN)"
+msgstr "16.- IMPRESIÓN QUE TEN O GRUPO DE SER REXEITADO POR EL/ELA (IN E IMN)"
+
+#: resultados/views.py:1273
+msgid "VALOR IN"
+msgstr ""
+
+#: resultados/views.py:1274
+msgid "NIVEL IN"
+msgstr ""
+
+#: resultados/views.py:1275
+msgid "NIVEL IMN"
+msgstr ""
+
+#: resultados/views.py:1299
+msgid "17.- NIVEL DE PREFERENCIA SOCIAL POSITIVA (IPP): LÍDER"
+msgstr ""
+
+#: resultados/views.py:1305
+msgid "VALOR IPP"
+msgstr ""
+
+#: resultados/views.py:1306
+msgid "NIVEL IPP"
+msgstr ""
+
+#: resultados/views.py:1329
+msgid "18.- NIVEL DE PREFERENCIA SOCIAL NEGATIVA (IPN): PESADO"
+msgstr ""
+
+#: resultados/views.py:1335
+msgid "VALOR IPN"
+msgstr ""
+
+#: resultados/views.py:1336
+msgid "NIVEL IPN"
+msgstr ""
+
+#: resultados/views.py:1361 templates/resultados/datos_alumno.html:566
+msgid "Propuesta de intervención"
+msgstr "Proposta de intervención"
+
+#: resultados/views.py:1363 resultados/views.py:3295
+#: templates/resultados/datos_alumno.html:568
+#: templates/resultados/resultados_grafo.html:130
+msgid "Áreas"
+msgstr ""
+
+#: resultados/views.py:1438 resultados/views.py:1440 resultados/views.py:1442
+#: resultados/views.py:1444 resultados/views.py:1448 resultados/views.py:1450
+#: resultados/views.py:1452 resultados/views.py:1454 resultados/views.py:1497
+#: resultados/views.py:1504 resultados/views.py:1511 resultados/views.py:1518
+#: resultados/views.py:1525 resultados/views.py:1532 resultados/views.py:1539
+#: resultados/views.py:1546 resultados/views.py:1553 resultados/views.py:1560
+#: resultados/views.py:1574 resultados/views.py:1581 resultados/views.py:1607
+#: resultados/views.py:1618 resultados/views.py:1629 resultados/views.py:1636
+#: resultados/views.py:1647 resultados/views.py:1658 resultados/views.py:1665
+#: resultados/views.py:1676 resultados/views.py:1797 resultados/views.py:1846
+#: resultados/views.py:1876 resultados/views.py:1882 resultados/views.py:1889
+#: resultados/views.py:1906 resultados/views.py:1955 resultados/views.py:1980
+#: resultados/views.py:2059 resultados/views.py:2089 resultados/views.py:2120
+msgid "Alto"
+msgstr ""
+
+#: resultados/views.py:1438 resultados/views.py:1440 resultados/views.py:1444
+#: resultados/views.py:1446 resultados/views.py:1452 resultados/views.py:1454
+#: resultados/views.py:1456 resultados/views.py:1458 resultados/views.py:1460
+#: resultados/views.py:1501 resultados/views.py:1508 resultados/views.py:1515
+#: resultados/views.py:1522 resultados/views.py:1529 resultados/views.py:1536
+#: resultados/views.py:1543 resultados/views.py:1550 resultados/views.py:1557
+#: resultados/views.py:1564 resultados/views.py:1578 resultados/views.py:1585
+#: resultados/views.py:1611 resultados/views.py:1622 resultados/views.py:1633
+#: resultados/views.py:1640 resultados/views.py:1651 resultados/views.py:1662
+#: resultados/views.py:1669 resultados/views.py:1680 resultados/views.py:1731
+#: resultados/views.py:1824 resultados/views.py:1846 resultados/views.py:1862
+#: resultados/views.py:1876 resultados/views.py:1912 resultados/views.py:1931
+msgid "Bajo"
+msgstr "Baixo"
+
+#: resultados/views.py:1439
+msgid "Líder"
+msgstr ""
+
+#: resultados/views.py:1441
+msgid "Astro"
+msgstr ""
+
+#: resultados/views.py:1442 resultados/views.py:1444 resultados/views.py:1446
+#: resultados/views.py:1450 resultados/views.py:1454 resultados/views.py:1456
+#: resultados/views.py:1458 resultados/views.py:1460 resultados/views.py:1499
+#: resultados/views.py:1506 resultados/views.py:1513 resultados/views.py:1520
+#: resultados/views.py:1527 resultados/views.py:1534 resultados/views.py:1541
+#: resultados/views.py:1548 resultados/views.py:1555 resultados/views.py:1562
+#: resultados/views.py:1576 resultados/views.py:1583 resultados/views.py:1609
+#: resultados/views.py:1620 resultados/views.py:1631 resultados/views.py:1638
+#: resultados/views.py:1649 resultados/views.py:1660 resultados/views.py:1667
+#: resultados/views.py:1678
+msgid "Medio"
+msgstr ""
+
+#: resultados/views.py:1443
+msgid "Popular"
+msgstr ""
+
+#: resultados/views.py:1445
+msgid "Integrado"
+msgstr ""
+
+#: resultados/views.py:1447
+msgid "Solitario"
+msgstr ""
+
+#: resultados/views.py:1449
+msgid "Polémico"
+msgstr ""
+
+#: resultados/views.py:1451
+msgid "Rechazo Parcial"
+msgstr "Rexeitamento Parcial"
+
+#: resultados/views.py:1453
+msgid "Rechazo Total"
+msgstr "Rexeitamento Total"
+
+#: resultados/views.py:1455
+msgid "Desatendido"
+msgstr ""
+
+#: resultados/views.py:1457
+msgid "Ignorado"
+msgstr ""
+
+#: resultados/views.py:1459
+msgid "Aislado"
+msgstr "Illado"
+
+#: resultados/views.py:1461
+msgid "Eminencia gris, elegido por el líder"
+msgstr "Eminencia gris, elexido polo líder"
+
+#: resultados/views.py:1653 resultados/views.py:1671 resultados/views.py:1745
+msgid "Muy bajo"
+msgstr "Moi baixo"
+
+#: resultados/views.py:1656 resultados/views.py:1674 resultados/views.py:1764
+msgid "Muy alto"
+msgstr "Moi alto"
+
+#: resultados/views.py:1710
+msgid "Elige a "
+msgstr "Elixe a "
+
+#: resultados/views.py:1710
+msgid " pero "
+msgstr ""
+
+#: resultados/views.py:1710 resultados/views.py:2024 resultados/views.py:2046
+#: resultados/views.py:2050 resultados/views.py:2099
+msgid " lo/la rechaza por el motivo \""
+msgstr " o/a rexeita polo motivo \""
+
+#: resultados/views.py:1718 resultados/views.py:1965 resultados/views.py:2046
+#: resultados/views.py:2048 resultados/views.py:2069
+msgid "Rechaza a "
+msgstr "Rexeita a "
+
+#: resultados/views.py:1718 resultados/views.py:1965 resultados/views.py:2046
+#: resultados/views.py:2048 resultados/views.py:2069
+msgid " por el motivo \""
+msgstr " polo motivo \""
+
+#: resultados/views.py:1718 resultados/views.py:2046
+msgid "\" y "
+msgstr "\" e "
+
+#: resultados/views.py:1718
+msgid " lo elige"
+msgstr " elíxeo "
+
+#: resultados/views.py:1725 resultados/views.py:1771 resultados/views.py:1772
+#: resultados/views.py:1773 resultados/views.py:1774 resultados/views.py:1776
+#: resultados/views.py:1777 resultados/views.py:1778 resultados/views.py:1779
+#: resultados/views.py:1798 resultados/views.py:1799 resultados/views.py:1800
+#: resultados/views.py:1801 resultados/views.py:1847 resultados/views.py:1848
+#: resultados/views.py:1849 resultados/views.py:1850 resultados/views.py:1863
+#: resultados/views.py:1864 resultados/views.py:1865 resultados/views.py:1866
+#: resultados/views.py:1870 resultados/views.py:1871 resultados/views.py:1872
+#: resultados/views.py:1873 resultados/views.py:1877 resultados/views.py:1878
+#: resultados/views.py:1879 resultados/views.py:1880 resultados/views.py:1883
+#: resultados/views.py:1884 resultados/views.py:1885 resultados/views.py:1886
+#: resultados/views.py:1890 resultados/views.py:1891 resultados/views.py:1892
+#: resultados/views.py:1893 resultados/views.py:1895 resultados/views.py:1896
+#: resultados/views.py:1897 resultados/views.py:1898 resultados/views.py:1900
+#: resultados/views.py:1901 resultados/views.py:1902 resultados/views.py:1903
+#: resultados/views.py:1907 resultados/views.py:1908 resultados/views.py:1909
+#: resultados/views.py:1910 resultados/views.py:1913 resultados/views.py:1914
+#: resultados/views.py:1915 resultados/views.py:1916 resultados/views.py:1920
+#: resultados/views.py:1921 resultados/views.py:1922 resultados/views.py:1923
+#: resultados/views.py:1925 resultados/views.py:1926 resultados/views.py:1927
+#: resultados/views.py:1928 resultados/views.py:1942 resultados/views.py:1943
+#: resultados/views.py:1944 resultados/views.py:1945 resultados/views.py:1968
+#: resultados/views.py:1969 resultados/views.py:1970 resultados/views.py:1971
+#: resultados/views.py:1993 resultados/views.py:1994 resultados/views.py:1995
+#: resultados/views.py:1996 resultados/views.py:2002 resultados/views.py:2003
+#: resultados/views.py:2004 resultados/views.py:2005 resultados/views.py:2007
+#: resultados/views.py:2008 resultados/views.py:2009 resultados/views.py:2010
+#: resultados/views.py:2026 resultados/views.py:2027 resultados/views.py:2028
+#: resultados/views.py:2029 resultados/views.py:2052 resultados/views.py:2053
+#: resultados/views.py:2054 resultados/views.py:2055
+msgid "Educación emocional"
+msgstr ""
+
+#: resultados/views.py:1725 resultados/views.py:1847 resultados/views.py:1848
+#: resultados/views.py:1849 resultados/views.py:1850 resultados/views.py:1863
+#: resultados/views.py:1864 resultados/views.py:1865 resultados/views.py:1866
+#: resultados/views.py:1870 resultados/views.py:1871 resultados/views.py:1872
+#: resultados/views.py:1873 resultados/views.py:1877 resultados/views.py:1878
+#: resultados/views.py:1879 resultados/views.py:1880 resultados/views.py:1890
+#: resultados/views.py:1891 resultados/views.py:1892 resultados/views.py:1893
+#: resultados/views.py:1920 resultados/views.py:1921 resultados/views.py:1922
+#: resultados/views.py:1923
+msgid "Autoconcepto y autoestima"
+msgstr "Autoconcepto e autoestima"
+
+#: resultados/views.py:1725 resultados/views.py:1883 resultados/views.py:1884
+#: resultados/views.py:1885 resultados/views.py:1886 resultados/views.py:1895
+#: resultados/views.py:1896 resultados/views.py:1897 resultados/views.py:1898
+#: resultados/views.py:1907 resultados/views.py:1908 resultados/views.py:1909
+#: resultados/views.py:1910
+msgid "Autoregulación"
+msgstr ""
+
+#: resultados/views.py:1725 resultados/views.py:1776 resultados/views.py:1777
+#: resultados/views.py:1778 resultados/views.py:1779 resultados/views.py:1798
+#: resultados/views.py:1799 resultados/views.py:1800 resultados/views.py:1801
+#: resultados/views.py:1900 resultados/views.py:1901 resultados/views.py:1902
+#: resultados/views.py:1903 resultados/views.py:1913 resultados/views.py:1914
+#: resultados/views.py:1915 resultados/views.py:1916 resultados/views.py:1925
+#: resultados/views.py:1926 resultados/views.py:1927 resultados/views.py:1928
+#: resultados/views.py:1993 resultados/views.py:1994 resultados/views.py:1995
+#: resultados/views.py:1996 resultados/views.py:2007 resultados/views.py:2008
+#: resultados/views.py:2009 resultados/views.py:2010 resultados/views.py:2026
+#: resultados/views.py:2027 resultados/views.py:2028 resultados/views.py:2029
+msgid "Habilidades sociales"
+msgstr "Habilidades sociais"
+
+#: resultados/views.py:1725 resultados/views.py:1942 resultados/views.py:1943
+#: resultados/views.py:1944 resultados/views.py:1945 resultados/views.py:1968
+#: resultados/views.py:1969 resultados/views.py:1970 resultados/views.py:1971
+#: resultados/views.py:2002 resultados/views.py:2003 resultados/views.py:2004
+#: resultados/views.py:2005
+msgid "Empatía"
+msgstr ""
+
+#: resultados/views.py:1725 resultados/views.py:1771 resultados/views.py:1772
+#: resultados/views.py:1773 resultados/views.py:1774 resultados/views.py:2052
+#: resultados/views.py:2053 resultados/views.py:2054 resultados/views.py:2055
+msgid "Resolución de conflictos"
+msgstr "Resolución de conflitos"
+
+#: resultados/views.py:1726 resultados/views.py:1757 resultados/views.py:1758
+#: resultados/views.py:1759 resultados/views.py:1760 resultados/views.py:1791
+#: resultados/views.py:1792 resultados/views.py:1793 resultados/views.py:1794
+#: resultados/views.py:1813 resultados/views.py:1814 resultados/views.py:1815
+#: resultados/views.py:1816 resultados/views.py:1835 resultados/views.py:1836
+#: resultados/views.py:1837 resultados/views.py:1838 resultados/views.py:1840
+#: resultados/views.py:1841 resultados/views.py:1842 resultados/views.py:1843
+#: resultados/views.py:1947 resultados/views.py:1948 resultados/views.py:1949
+#: resultados/views.py:1950 resultados/views.py:1973 resultados/views.py:1974
+#: resultados/views.py:1975 resultados/views.py:1976 resultados/views.py:2071
+#: resultados/views.py:2072 resultados/views.py:2073 resultados/views.py:2074
+#: resultados/views.py:2076 resultados/views.py:2077 resultados/views.py:2078
+#: resultados/views.py:2079 resultados/views.py:2081 resultados/views.py:2082
+#: resultados/views.py:2083 resultados/views.py:2084 resultados/views.py:2102
+#: resultados/views.py:2103 resultados/views.py:2104 resultados/views.py:2105
+#: resultados/views.py:2107 resultados/views.py:2108 resultados/views.py:2109
+#: resultados/views.py:2110 resultados/views.py:2112 resultados/views.py:2113
+#: resultados/views.py:2114 resultados/views.py:2115 resultados/views.py:2133
+#: resultados/views.py:2134 resultados/views.py:2135 resultados/views.py:2136
+#: resultados/views.py:2138 resultados/views.py:2139 resultados/views.py:2140
+#: resultados/views.py:2141
+msgid "Educación en valores"
+msgstr ""
+
+#: resultados/views.py:1726 resultados/views.py:1835 resultados/views.py:1836
+#: resultados/views.py:1837 resultados/views.py:1838 resultados/views.py:2071
+#: resultados/views.py:2072 resultados/views.py:2073 resultados/views.py:2074
+#: resultados/views.py:2102 resultados/views.py:2103 resultados/views.py:2104
+#: resultados/views.py:2105
+msgid "Interculturalidad"
+msgstr "Interculturalidade"
+
+#: resultados/views.py:1726 resultados/views.py:1840 resultados/views.py:1841
+#: resultados/views.py:1842 resultados/views.py:1843 resultados/views.py:1947
+#: resultados/views.py:1948 resultados/views.py:1949 resultados/views.py:1950
+#: resultados/views.py:1973 resultados/views.py:1974 resultados/views.py:1975
+#: resultados/views.py:1976 resultados/views.py:2076 resultados/views.py:2077
+#: resultados/views.py:2078 resultados/views.py:2079 resultados/views.py:2107
+#: resultados/views.py:2108 resultados/views.py:2109 resultados/views.py:2110
+#: resultados/views.py:2133 resultados/views.py:2134 resultados/views.py:2135
+#: resultados/views.py:2136
+msgid "Respeto y tolerancia"
+msgstr "Respeto e tolerancia"
+
+#: resultados/views.py:1726 resultados/views.py:1757 resultados/views.py:1758
+#: resultados/views.py:1759 resultados/views.py:1760 resultados/views.py:1791
+#: resultados/views.py:1792 resultados/views.py:1793 resultados/views.py:1794
+#: resultados/views.py:1813 resultados/views.py:1814 resultados/views.py:1815
+#: resultados/views.py:1816
+msgid "Solidaridad"
+msgstr "Solidaridade"
+
+#: resultados/views.py:1726 resultados/views.py:2081 resultados/views.py:2082
+#: resultados/views.py:2083 resultados/views.py:2084 resultados/views.py:2112
+#: resultados/views.py:2113 resultados/views.py:2114 resultados/views.py:2115
+#: resultados/views.py:2138 resultados/views.py:2139 resultados/views.py:2140
+#: resultados/views.py:2141
+msgid "Responsabilidad"
+msgstr "Responsabilidade"
+
+#: resultados/views.py:1727 resultados/views.py:1733 resultados/views.py:1734
+#: resultados/views.py:1735 resultados/views.py:1736 resultados/views.py:1738
+#: resultados/views.py:1739 resultados/views.py:1740 resultados/views.py:1741
+#: resultados/views.py:1747 resultados/views.py:1748 resultados/views.py:1749
+#: resultados/views.py:1750 resultados/views.py:1752 resultados/views.py:1753
+#: resultados/views.py:1754 resultados/views.py:1755 resultados/views.py:1766
+#: resultados/views.py:1767 resultados/views.py:1768 resultados/views.py:1769
+#: resultados/views.py:1781 resultados/views.py:1782 resultados/views.py:1783
+#: resultados/views.py:1784 resultados/views.py:1786 resultados/views.py:1787
+#: resultados/views.py:1788 resultados/views.py:1789 resultados/views.py:1803
+#: resultados/views.py:1804 resultados/views.py:1805 resultados/views.py:1806
+#: resultados/views.py:1808 resultados/views.py:1809 resultados/views.py:1810
+#: resultados/views.py:1811 resultados/views.py:1825 resultados/views.py:1826
+#: resultados/views.py:1827 resultados/views.py:1828 resultados/views.py:1830
+#: resultados/views.py:1831 resultados/views.py:1832 resultados/views.py:1833
+#: resultados/views.py:1852 resultados/views.py:1853 resultados/views.py:1854
+#: resultados/views.py:1855 resultados/views.py:1857 resultados/views.py:1858
+#: resultados/views.py:1859 resultados/views.py:1860 resultados/views.py:1932
+#: resultados/views.py:1933 resultados/views.py:1934 resultados/views.py:1935
+#: resultados/views.py:1937 resultados/views.py:1938 resultados/views.py:1939
+#: resultados/views.py:1940
+msgid "Grupo y aula"
+msgstr "Grupo e aula"
+
+#: resultados/views.py:1727 resultados/views.py:1733 resultados/views.py:1734
+#: resultados/views.py:1735 resultados/views.py:1736 resultados/views.py:1747
+#: resultados/views.py:1748 resultados/views.py:1749 resultados/views.py:1750
+#: resultados/views.py:1781 resultados/views.py:1782 resultados/views.py:1783
+#: resultados/views.py:1784 resultados/views.py:1803 resultados/views.py:1804
+#: resultados/views.py:1805 resultados/views.py:1806 resultados/views.py:1825
+#: resultados/views.py:1826 resultados/views.py:1827 resultados/views.py:1828
+#: resultados/views.py:1852 resultados/views.py:1853 resultados/views.py:1854
+#: resultados/views.py:1855 resultados/views.py:1932 resultados/views.py:1933
+#: resultados/views.py:1934 resultados/views.py:1935
+msgid "Cohesión de grupo"
+msgstr ""
+
+#: resultados/views.py:1727 resultados/views.py:1766 resultados/views.py:1767
+#: resultados/views.py:1768 resultados/views.py:1769
+msgid "Gestión de aula"
+msgstr "Xestión de aula"
+
+#: resultados/views.py:1727 resultados/views.py:1738 resultados/views.py:1739
+#: resultados/views.py:1740 resultados/views.py:1741 resultados/views.py:1752
+#: resultados/views.py:1753 resultados/views.py:1754 resultados/views.py:1755
+#: resultados/views.py:1786 resultados/views.py:1787 resultados/views.py:1788
+#: resultados/views.py:1789 resultados/views.py:1808 resultados/views.py:1809
+#: resultados/views.py:1810 resultados/views.py:1811 resultados/views.py:1830
+#: resultados/views.py:1831 resultados/views.py:1832 resultados/views.py:1833
+#: resultados/views.py:1857 resultados/views.py:1858 resultados/views.py:1859
+#: resultados/views.py:1860 resultados/views.py:1937 resultados/views.py:1938
+#: resultados/views.py:1939 resultados/views.py:1940
+msgid "Trabajo colaborativo y cooperativo"
+msgstr "Traballo colaborativo e cooperativo"
+
+#: resultados/views.py:1733 resultados/views.py:1734 resultados/views.py:1735
+#: resultados/views.py:1736 resultados/views.py:1738 resultados/views.py:1739
+#: resultados/views.py:1740 resultados/views.py:1741 resultados/views.py:1747
+#: resultados/views.py:1748 resultados/views.py:1749 resultados/views.py:1750
+#: resultados/views.py:1752 resultados/views.py:1753 resultados/views.py:1754
+#: resultados/views.py:1755 resultados/views.py:1757 resultados/views.py:1758
+#: resultados/views.py:1759 resultados/views.py:1760 resultados/views.py:1766
+#: resultados/views.py:1767 resultados/views.py:1768 resultados/views.py:1769
+#: resultados/views.py:1771 resultados/views.py:1772 resultados/views.py:1773
+#: resultados/views.py:1774 resultados/views.py:1776 resultados/views.py:1777
+#: resultados/views.py:1778 resultados/views.py:1779 resultados/views.py:1781
+#: resultados/views.py:1782 resultados/views.py:1783 resultados/views.py:1784
+#: resultados/views.py:1786 resultados/views.py:1787 resultados/views.py:1788
+#: resultados/views.py:1789 resultados/views.py:1791 resultados/views.py:1792
+#: resultados/views.py:1793 resultados/views.py:1794 resultados/views.py:1798
+#: resultados/views.py:1799 resultados/views.py:1800 resultados/views.py:1801
+#: resultados/views.py:1803 resultados/views.py:1804 resultados/views.py:1805
+#: resultados/views.py:1806 resultados/views.py:1808 resultados/views.py:1809
+#: resultados/views.py:1810 resultados/views.py:1811 resultados/views.py:1813
+#: resultados/views.py:1814 resultados/views.py:1815 resultados/views.py:1816
+msgid "Grupo"
+msgstr ""
+
+#: resultados/views.py:1736 resultados/views.py:1741
+msgid "La cohesión del grupo es baja (IC)"
+msgstr "A cohesión do grupo é baixa (IC)"
+
+#: resultados/views.py:1750 resultados/views.py:1755 resultados/views.py:1760
+msgid "La cohesión del grupo (IC) y su actividad positiva (IAP) son muy bajas"
+msgstr "A cohesión do grupo (IC) e a súa actividade positiva (IAP) son moi baixas"
+
+#: resultados/views.py:1769 resultados/views.py:1774 resultados/views.py:1779
+#: resultados/views.py:1784 resultados/views.py:1789 resultados/views.py:1794
+msgid "La tendencia del grupo a rechazarse (ID) y su actividad negativa (IAN) son muy altas"
+msgstr "A tendencia do grupo a rexeitarse (ID) e a súa actividade negativa (IAN) son moi altas"
+
+#: resultados/views.py:1801 resultados/views.py:1806 resultados/views.py:1811
+#: resultados/views.py:1816
+msgid "La tendencia del grupo a rechazarse (ID) es muy alta"
+msgstr "A tendencia do grupo a rexeitarse (ID) é moi alta"
+
+#: resultados/views.py:1825 resultados/views.py:1826 resultados/views.py:1827
+#: resultados/views.py:1828 resultados/views.py:1830 resultados/views.py:1831
+#: resultados/views.py:1832 resultados/views.py:1833 resultados/views.py:1835
+#: resultados/views.py:1836 resultados/views.py:1837 resultados/views.py:1838
+#: resultados/views.py:1840 resultados/views.py:1841 resultados/views.py:1842
+#: resultados/views.py:1843 resultados/views.py:1852 resultados/views.py:1853
+#: resultados/views.py:1854 resultados/views.py:1855 resultados/views.py:1857
+#: resultados/views.py:1858 resultados/views.py:1859 resultados/views.py:1860
+#: resultados/views.py:1932 resultados/views.py:1933 resultados/views.py:1934
+#: resultados/views.py:1935 resultados/views.py:1937 resultados/views.py:1938
+#: resultados/views.py:1939 resultados/views.py:1940 resultados/views.py:1942
+#: resultados/views.py:1943 resultados/views.py:1944 resultados/views.py:1945
+#: resultados/views.py:1947 resultados/views.py:1948 resultados/views.py:1949
+#: resultados/views.py:1950 resultados/views.py:1968 resultados/views.py:1969
+#: resultados/views.py:1970 resultados/views.py:1971 resultados/views.py:1973
+#: resultados/views.py:1974 resultados/views.py:1975 resultados/views.py:1976
+#: resultados/views.py:1993 resultados/views.py:1994 resultados/views.py:1995
+#: resultados/views.py:1996 resultados/views.py:2002 resultados/views.py:2003
+#: resultados/views.py:2004 resultados/views.py:2005 resultados/views.py:2007
+#: resultados/views.py:2008 resultados/views.py:2009 resultados/views.py:2010
+#: resultados/views.py:2026 resultados/views.py:2027 resultados/views.py:2028
+#: resultados/views.py:2029 resultados/views.py:2052 resultados/views.py:2053
+#: resultados/views.py:2054 resultados/views.py:2055 resultados/views.py:2071
+#: resultados/views.py:2072 resultados/views.py:2073 resultados/views.py:2074
+#: resultados/views.py:2076 resultados/views.py:2077 resultados/views.py:2078
+#: resultados/views.py:2079 resultados/views.py:2081 resultados/views.py:2082
+#: resultados/views.py:2083 resultados/views.py:2084 resultados/views.py:2102
+#: resultados/views.py:2103 resultados/views.py:2104 resultados/views.py:2105
+#: resultados/views.py:2107 resultados/views.py:2108 resultados/views.py:2109
+#: resultados/views.py:2110 resultados/views.py:2112 resultados/views.py:2113
+#: resultados/views.py:2114 resultados/views.py:2115 resultados/views.py:2133
+#: resultados/views.py:2134 resultados/views.py:2135 resultados/views.py:2136
+#: resultados/views.py:2138 resultados/views.py:2139 resultados/views.py:2140
+#: resultados/views.py:2141
+msgid "Entre "
+msgstr ""
+
+#: resultados/views.py:1825 resultados/views.py:1826 resultados/views.py:1827
+#: resultados/views.py:1828 resultados/views.py:1830 resultados/views.py:1831
+#: resultados/views.py:1832 resultados/views.py:1833 resultados/views.py:1835
+#: resultados/views.py:1836 resultados/views.py:1837 resultados/views.py:1838
+#: resultados/views.py:1840 resultados/views.py:1841 resultados/views.py:1842
+#: resultados/views.py:1843 resultados/views.py:1852 resultados/views.py:1853
+#: resultados/views.py:1854 resultados/views.py:1855 resultados/views.py:1857
+#: resultados/views.py:1858 resultados/views.py:1859 resultados/views.py:1860
+#: resultados/views.py:1932 resultados/views.py:1933 resultados/views.py:1934
+#: resultados/views.py:1935 resultados/views.py:1937 resultados/views.py:1938
+#: resultados/views.py:1939 resultados/views.py:1940 resultados/views.py:1942
+#: resultados/views.py:1943 resultados/views.py:1944 resultados/views.py:1945
+#: resultados/views.py:1947 resultados/views.py:1948 resultados/views.py:1949
+#: resultados/views.py:1950
+msgid " y el grupo "
+msgstr " e o grupo"
+
+#: resultados/views.py:1828 resultados/views.py:1833 resultados/views.py:1838
+#: resultados/views.py:1843
+msgid "Su número de eleccions positivas (SP) y su nivel medio de popularidad (NP) son bajos"
+msgstr "O seu número de eleccións positivas (SP) e o seu nivel medio de popularidade (NP) son baixos"
+
+#: resultados/views.py:1850 resultados/views.py:1855 resultados/views.py:1860
+msgid "El número de compañeros por los que se cree elegido (PP) es bajo y su percepción acertada de ese número es alta (PAP)"
+msgstr "O número de compañeiros polos que se cre elixido (PP) é baixo e a súa percepción acertada dese número é alta (PAP)"
+
+#: resultados/views.py:1866
+msgid ""
+"El número de compañeros por los que se cree elegido (PP) es bajo y su "
+"percepción acertada de ese número es baja (PAP)"
+msgstr ""
+"O número de compañeiros polos que se cre elixido (PP) é baixo e a súa "
+"percepción acertada dese número é baixa (PAP)"
+
+#: resultados/views.py:1873
+msgid "No tiene amistades recíprocas (RP)"
+msgstr "Non ten amizades recíprocas (RP)"
+
+#: resultados/views.py:1880
+msgid ""
+"El número de compañeros por los que se cree rechazado (PN) es alto y su "
+"percepción acertada de ese número es baja (PAN)"
+msgstr ""
+"O número de compañeiros polos que se cre rexeitado (PN) é alto e a súa "
+"percepción acertada dese número é baixa (PAN)"
+
+#: resultados/views.py:1886 resultados/views.py:2105 resultados/views.py:2110
+#: resultados/views.py:2115
+msgid ""
+"El número de compañeros por los que se cree rechazado (PN) es alto y su "
+"percepción acertada de ese número es alta (PAN)"
+msgstr ""
+"O número de compañeiros polos que se cree rexeitado (PN) é alto e a súa "
+"percepción acertada dese número é alta (PAN)"
+
+#: resultados/views.py:1893 resultados/views.py:1898 resultados/views.py:1903
+#: resultados/views.py:2136 resultados/views.py:2141
+msgid ""
+"La cantidad de veces que es nombrado/a por sus compañeros en las categorías "
+"de carácter negativo (IPN) es alta"
+msgstr ""
+"A cantidade de veces que é nomeado/a polos seus compañeiros nas categorías "
+"de caracter negativo (IPN) é alta"
+
+#: resultados/views.py:1910 resultados/views.py:2074 resultados/views.py:2079
+#: resultados/views.py:2084
+msgid ""
+"Su número de eleccions negativas (SN) y su nivel medio de rechazo (NN) son "
+"altos"
+msgstr ""
+"O seu número de eleccións negativas (SN) e o seu nivel medio de rexeitamento "
+"(NN) son altos"
+
+#: resultados/views.py:1916
+msgid ""
+"El número de compañeros que se creen elegidos por él/ella (IP) es bajo y el "
+"nivel medio de impresión que tiene el grupo de ser elegido por él/ella (IMP) "
+"es bajo"
+msgstr ""
+"O número de compañeiros que se cren elixidos por el/ela (IP) é baixo e o "
+"nivel medio de impresión que ten o grupo de ser elixido por el/ela (IMP) é "
+"baixo"
+
+#: resultados/views.py:1923 resultados/views.py:1928
+msgid "Esperaba que lo rechazaran pero lo eligieron (OIN)"
+msgstr "Esperaba que o rexeitasen pero elixírono (OIN)"
+
+#: resultados/views.py:1935 resultados/views.py:1940 resultados/views.py:1945
+#: resultados/views.py:1950
+msgid "La suma de sus elecciones positivas (EP) es baja"
+msgstr "A suma das súas eleccións positivas (EP) é baixa"
+
+#: resultados/views.py:1968 resultados/views.py:1969 resultados/views.py:1970
+#: resultados/views.py:1971 resultados/views.py:1973 resultados/views.py:1974
+#: resultados/views.py:1975 resultados/views.py:1976 resultados/views.py:1993
+#: resultados/views.py:1994 resultados/views.py:1995 resultados/views.py:1996
+#: resultados/views.py:2002 resultados/views.py:2003 resultados/views.py:2004
+#: resultados/views.py:2005 resultados/views.py:2007 resultados/views.py:2008
+#: resultados/views.py:2009 resultados/views.py:2010 resultados/views.py:2026
+#: resultados/views.py:2027 resultados/views.py:2028 resultados/views.py:2029
+#: resultados/views.py:2052 resultados/views.py:2053 resultados/views.py:2054
+#: resultados/views.py:2055 resultados/views.py:2071 resultados/views.py:2072
+#: resultados/views.py:2073 resultados/views.py:2074 resultados/views.py:2076
+#: resultados/views.py:2077 resultados/views.py:2078 resultados/views.py:2079
+#: resultados/views.py:2081 resultados/views.py:2082 resultados/views.py:2083
+#: resultados/views.py:2084 resultados/views.py:2102 resultados/views.py:2103
+#: resultados/views.py:2104 resultados/views.py:2105 resultados/views.py:2107
+#: resultados/views.py:2108 resultados/views.py:2109 resultados/views.py:2110
+#: resultados/views.py:2112 resultados/views.py:2113 resultados/views.py:2114
+#: resultados/views.py:2115 resultados/views.py:2133 resultados/views.py:2134
+#: resultados/views.py:2135 resultados/views.py:2136 resultados/views.py:2138
+#: resultados/views.py:2139 resultados/views.py:2140 resultados/views.py:2141
+msgid " y "
+msgstr " e "
+
+#: resultados/views.py:1971 resultados/views.py:1976
+msgid "La suma de sus elecciones negativas (EN) es alta"
+msgstr "A suma das súas eleccións negativas (EN) é alta"
+
+#: resultados/views.py:1990
+msgid " piensa que lo/la rechaza por el motivo \""
+msgstr " pensa que o/a rexeita polo motivo \""
+
+#: resultados/views.py:1996
+msgid ""
+"El número de compañeros que se creen rechazados por él/ella (IN) es alto y "
+"el nivel medio de impresión que tiene el grupo de ser rechazado por él/ella "
+"(IMN) es alto"
+msgstr ""
+"O número de compañeiros que se cren rexeitados por el/ela (IN) é alto e o "
+"nivel medio de impresión que ten o grupo de ser rexeitado por el/ela (IMN) é "
+"alto"
+
+#: resultados/views.py:2005 resultados/views.py:2010
+msgid "Tienen oposición de sentimientos (OS)"
+msgstr "Teñen oposición de sentimento (OS)"
+
+#: resultados/views.py:2029
+msgid "Esperaba que lo eligiesen pero lo rechazaron (OIP)"
+msgstr "Esperaba que o elixisen pero rexeitárono (OIP)"
+
+#: resultados/views.py:2055
+msgid "Existe enemistad entre ellos (RN)"
+msgstr "Existe enimizade entre eles (RN)"
+
+#: resultados/views.py:2099
+msgid "Piensa que"
+msgstr "Pensa que "
+
+#: resultados/views.py:2130
+msgid " lo/la elegió por el motivo \""
+msgstr " o/a elexiuno polo motivo "
+
+#: resultados/views.py:2455
+#, python-brace-format
+msgid "Informe de grupo {0}"
+msgstr ""
+
+#: resultados/views.py:2476 templates/resultados/datos.html:19
+msgid "Colegio"
+msgstr "Escola"
+
+#: resultados/views.py:2480 templates/resultados/datos.html:23
+msgid "Curso y Grupo"
+msgstr "Curso e Grupo"
+
+#: resultados/views.py:2484 templates/resultados/datos.html:27
+msgid "Tutor responsable"
+msgstr ""
+
+#: resultados/views.py:2488 templates/resultados/datos.html:31
+msgid "Nombre del test"
+msgstr "Nome do test"
+
+#: resultados/views.py:2492 templates/resultados/datos.html:35
+msgid "Fecha del test"
+msgstr "Data do test"
+
+#: resultados/views.py:2583
+msgid "Cálculo de variables"
+msgstr ""
+
+#: resultados/views.py:2585 templates/resultados/datos.html:81
+msgid "Matriz pregunta tipo 1"
+msgstr ""
+
+#: resultados/views.py:2670 templates/resultados/datos.html:142
+msgid "Se eligen mutuamente"
+msgstr "Elíxense mutuamente"
+
+#: resultados/views.py:2699 templates/resultados/datos.html:148
+msgid "Matriz pregunta tipo 2"
+msgstr ""
+
+#: resultados/views.py:2784 templates/resultados/datos.html:211
+msgid "Se rechazan mutuamente"
+msgstr "Rexéitanse mutuamente"
+
+#: resultados/views.py:2813 templates/resultados/datos.html:217
+msgid "Matrices preguntas tipo 1 y 2"
+msgstr "Matrices preguntas tipo 1 e 2"
+
+#: resultados/views.py:2885 templates/resultados/datos.html:261
+msgid "Índices grupales"
+msgstr "Índices grupais"
+
+#: resultados/views.py:2946
+msgid "Matriz pregunta tipo 3"
+msgstr ""
+
+#: resultados/views.py:3033 templates/resultados/datos.html:354
+msgid "Matriz pregunta tipo 4"
+msgstr ""
+
+#: resultados/views.py:3167 templates/resultados/datos.html:448
+msgid "Cree que lo eligen y acierta"
+msgstr "Cre que o elixen e acerta"
+
+#: resultados/views.py:3175 templates/resultados/datos.html:456
+msgid "Cree que lo rechazan y acierta"
+msgstr "Cre que o rexeitan e acerta"
+
+#: resultados/views.py:3207 templates/resultados/datos.html:467
+msgid "Matriz pregunta tipo 5"
+msgstr ""
+
+#: resultados/views.py:3243 templates/resultados/datos.html:494
+msgid "Matriz pregunta tipo 6"
+msgstr ""
+
+#: resultados/views.py:3293 templates/resultados/resultados_grafo.html:128
+msgid "Propuesta de intervención grupal"
+msgstr "Proposta de intervención grupal"
+
+#: templates/alumnos/alumno_list.html:5 templates/alumnos/list.html:18
+msgid "Añadir Usuario"
+msgstr "Engadir Usuario"
+
+#: templates/alumnos/clase_confirm_delete.html:3
+msgid "¿Está seguro de que quiere borrar {{ object }}?"
+msgstr "Está seguro que quere borrar {{object}}?"
+
+#: templates/alumnos/clase_list.html:6 templates/alumnos/list.html:19
+msgid "Añadir Clase"
+msgstr "Engadir Clase"
+
+#: templates/alumnos/clase_list.html:7
+msgid "Añadir Alumno"
+msgstr "Engadir Alumno"
+
+#: templates/alumnos/clase_list.html:12
+msgid "No existen clases"
+msgstr "Non existen clases"
+
+#: templates/alumnos/list.html:16
+msgid "ALUMNOS"
+msgstr ""
+
+#: templates/alumnos/list.html:30
+msgid "Eliminar clase"
+msgstr ""
+
+#: templates/alumnos/list.html:34
+msgid "Editar clase"
+msgstr ""
+
+#: templates/alumnos/list.html:38
+msgid "Añadir alumno"
+msgstr "Engadir alumno"
+
+#: templates/alumnos/list.html:42
+msgid "Importar alumnos"
+msgstr ""
+
+#: templates/alumnos/list.html:46 templates/cuestionarios/test_list.html:40
+#: templates/cuestionarios/test_list.html:124
+#: templates/cuestionarios/test_list.html:136
+msgid "Visualizar resultados"
+msgstr ""
+
+#: templates/alumnos/list.html:56 templates/alumnos/list.html:67
+#: templates/cuestionarios/test_list.html:67
+#: templates/cuestionarios/test_list.html:79
+#: templates/cuestionarios/test_list.html:92
+msgid "Borrar"
+msgstr ""
+
+#: templates/alumnos/list.html:63
+#, python-format
+msgid "\"¿Está seguro de que quiere borrar %(key)s?\""
+msgstr "\"Está seguro que quere borrar %(key)s?\""
+
+#: templates/alumnos/list.html:65 templates/cuestionarios/test_list.html:77
+#: templates/cuestionarios/test_list.html:102
+#: templates/cuestionarios/testdownloadconfirm.html:16
+#: templates/cuestionarios/testform.html:11
+#: templates/cuestionarios/testpreguntasform.html:15
+#: templates/cuestionarios/testuploadconfirm.html:16
+msgid "Cancelar"
+msgstr ""
+
+#: templates/alumnos/list.html:88
+msgid "No hay clases"
+msgstr "Non hai clases"
+
+#: templates/cuestionarios/preguntas_test_update_form.html:8
+#: templates/cuestionarios/test_update_form.html:8
+msgid "Actualizar"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:14
+msgid "TESTS"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:16
+msgid "Añadir Test"
+msgstr "Engadir Test"
+
+#: templates/cuestionarios/test_list.html:28
+msgid "Cerrar cuestionario"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:32
+msgid "Borrar cuestionario"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:36
+msgid "Editar cuestionario"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:44
+msgid "Descargar todos los resultados individuales"
+msgstr "Descargar todos os resultados individuais"
+
+#: templates/cuestionarios/test_list.html:48
+#: templates/cuestionarios/test_list.html:120
+#: templates/cuestionarios/test_list.html:132
+msgid "Descargar resultados"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:52
+msgid "Descargar códigos"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:56
+msgid "Subir test"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:74
+#, python-format
+msgid "¿Está seguro de que quiere borrar"
+msgstr "Está seguro que quere borrar"
+
+#: templates/cuestionarios/test_list.html:99
+msgid "¿Está seguro de que quiere cerrar"
+msgstr "Está seguro que quere cerrar"
+
+#: templates/cuestionarios/test_list.html:104
+msgid "Cerrar"
+msgstr ""
+
+#: templates/cuestionarios/test_list.html:145
+msgid "No hay tests"
+msgstr "Non hai tests"
+
+#: templates/cuestionarios/test_update_form.html:17
+msgid "Editar Preguntas"
+msgstr ""
+
+#: templates/cuestionarios/testdownloadconfirm.html:7
+msgid "Bajada de resultados del servidor"
+msgstr "Baixada de resultados do servidor"
+
+#: templates/cuestionarios/testdownloadconfirm.html:8
+msgid ""
+"Por seguridad antes deberá confirmar los datos con los que se registró en "
+"nuestra plataforma."
+msgstr ""
+"Por seguridade antes deberá confirmar os datos cos que se rexistrou na nosa "
+"plataforma."
+
+#: templates/cuestionarios/testdownloadconfirm.html:15
+#: templates/cuestionarios/testuploadconfirm.html:15
+msgid "Login"
+msgstr ""
+
+#: templates/cuestionarios/testform.html:10
+msgid "Siguiente"
+msgstr "Seguinte"
+
+#: templates/cuestionarios/testpreguntasform.html:10
+#, python-format
+msgid " %(preguntas)s "
+msgstr " %(preguntas)s "
+
+#: templates/cuestionarios/testpreguntasform.html:14
+msgid "Guardar"
+msgstr "Gardar"
+
+#: templates/cuestionarios/testuploadconfirm.html:7
+msgid "Subida de datos al servidor"
+msgstr "Subida de datos ao servidor"
+
+#: templates/cuestionarios/testuploadconfirm.html:8
+msgid "Por seguridad antes deberá confirmar los datos con los que se registró"
+msgstr "Por seguridade antes deberá confirma os datos cos que se rexistrou"
+
+#: templates/login.html:21
+msgid "Registrarse"
+msgstr "Rexistrarse"
+
+#: templates/resultados/datos.html:13
+#, python-format
+msgid " Informe de grupo %(clase)s "
+msgstr ""
+
+#: templates/resultados/datos.html:80
+msgid "Cáculo de variables"
+msgstr ""
+
+#: templates/resultados/datos.html:294
+msgid "Matriz preguntas tipo 3"
+msgstr ""
+
+#: templates/resultados/datos_alumno.html:14
+#: templates/resultados/resultados_grafo.html:15
+msgid "Descargar resultados completos"
+msgstr ""
+
+#: templates/resultados/datos_alumno.html:17
+msgid "Informe de"
+msgstr ""
+
+#: templates/resultados/datos_alumno.html:221
+msgid "POSICIÓN SOCIOMÉTRICA (SP, SN, EP Y EN)"
+msgstr "POSICIÓN SOCIOMÁTRICA (SP, SN, EP E EN)"
+
+#: templates/resultados/datos_alumno.html:243
+msgid "ESTATUS POSITIVO (SP) Y NIVEL MEDIO DE POPULARIDAD (NP)"
+msgstr "ESTATUS POSITIVO (SP) E NIVEL MEDIO DE POPULARIDADE (NP)"
+
+#: templates/resultados/datos_alumno.html:247
+#: templates/resultados/datos_alumno.html:263
+#: templates/resultados/datos_alumno.html:361
+#: templates/resultados/datos_alumno.html:377
+#: templates/resultados/datos_alumno.html:393
+#: templates/resultados/datos_alumno.html:432
+#: templates/resultados/datos_alumno.html:448
+#: templates/resultados/datos_alumno.html:464
+#: templates/resultados/datos_alumno.html:503
+#: templates/resultados/datos_alumno.html:521
+#: templates/resultados/datos_alumno.html:539
+#: templates/resultados/datos_alumno.html:555
+msgid "NIVEL"
+msgstr ""
+
+#: templates/resultados/datos_alumno.html:248
+#: templates/resultados/datos_alumno.html:264
+#: templates/resultados/datos_alumno.html:360
+#: templates/resultados/datos_alumno.html:376
+#: templates/resultados/datos_alumno.html:392
+#: templates/resultados/datos_alumno.html:431
+#: templates/resultados/datos_alumno.html:447
+#: templates/resultados/datos_alumno.html:463
+#: templates/resultados/datos_alumno.html:502
+#: templates/resultados/datos_alumno.html:504
+#: templates/resultados/datos_alumno.html:520
+#: templates/resultados/datos_alumno.html:522
+#: templates/resultados/datos_alumno.html:538
+#: templates/resultados/datos_alumno.html:554
+msgid "VALOR"
+msgstr ""
+
+#: templates/resultados/datos_alumno.html:259
+msgid "ESTATUS NEGATIVO (SN) Y NIVEL MEDIO DE RECHAZO (NN)"
+msgstr "ESTATUS NEGATIVO (SN) E NIVEL MEDIO DE REXEITAMENTO (NN)"
+
+#: templates/resultados/datos_alumno.html:275
+msgid "AMISTADES (RP)"
+msgstr "AMIZADES (RP)"
+
+#: templates/resultados/datos_alumno.html:301
+msgid "ENEMISTADES (RN)"
+msgstr "ENIMIZADES (RN)"
+
+#: templates/resultados/datos_alumno.html:327
+msgid "OPOSICIÓN DE SENTIMIENTO (OS)"
+msgstr "OPOSICIÓN DE SENTIMENTO (OS)"
+
+#: templates/resultados/datos_alumno.html:356
+msgid "GRADO DE SOCIABILIDAD O EXPANSIVIDAD (EP)"
+msgstr "GRAO DE SOCIABILIDADE OU EXPANSIVIDADE (EP)"
+
+#: templates/resultados/datos_alumno.html:372
+msgid "EXPECTATIVA DE SER ELEGIDO (PP)"
+msgstr "EXPECTATIVA DE SER ELIXIDO (PP)"
+
+#: templates/resultados/datos_alumno.html:388
+msgid "GRADO DE ACIERTO EN LA EXPECTATIVA DE SER ELEGIDO (PAP)"
+msgstr "GRAO DE ACERTO NA EXPECTATIVA"
+
+#: templates/resultados/datos_alumno.html:404
+msgid ""
+"OPOSICIÓN ENTRE LA EXPECTATIVA DE SER ELEGIDO Y LA REALIDAD DE SER RECHAZADO "
+"(OIP)"
+msgstr ""
+"OPOSICIÓN ENTRE A EXPECTATIVA DE SER ELIXIDO E A REALIDADE DE SER REXEITADO "
+"(OIP)"
+
+#: templates/resultados/datos_alumno.html:427
+msgid "GRADO DE ANTIPATÍA (EN)"
+msgstr "GRAO DE ANTIPATÍA (EN)"
+
+#: templates/resultados/datos_alumno.html:443
+msgid "EXPECTATIVA DE SER RECHAZADO (PN)"
+msgstr "EXPECTATIVA DE SER REXEITADO (PN)"
+
+#: templates/resultados/datos_alumno.html:459
+msgid "GRADO DE ACIERTO EN LA EXPECTATIVA DE SER RECHAZADO (PAN)"
+msgstr "GRAO DE ACERTO NA EXPECTATIVA DE SER REXEITADO (PAN)"
+
+#: templates/resultados/datos_alumno.html:475
+msgid ""
+"OPOSICIÓN ENTRE LA EXPECTATIVA DE SER RECHAZADO A LA REALIDAD DE SER ELEGIDO "
+"(OIN)"
+msgstr ""
+"OPOSICIÓN ENTRE A EXPECTATIVA DE SER REXEITADO Á REALIDADE DE SER ELIXIDO "
+"(OIN)"
+
+#: templates/resultados/datos_alumno.html:498
+msgid "IMPRESIÓN QUE TIENE EL GRUPO DE SER ELEGIDO POR EL/ELLA (IP E IMP)"
+msgstr "IMPRESIÓN QUE TEN O GRUPO DE SER ELIXIDO POR EL/ELA (IP E IMP)"
+
+#: templates/resultados/datos_alumno.html:516
+msgid "IMPRESIÓN QUE TIENE EL GRUPO DE SER RECHAZADO POR EL/ELLA (IN E IMN)"
+msgstr "IMPRESIÓN QUE TEN O GRUPO DE SER REXEITADO POR EL/ELA (IN E IMN)"
+
+#: templates/resultados/datos_alumno.html:534
+msgid "NIVEL DE PREFERENCIA SOCIAL POSITIVA (IPP): LÍDER"
+msgstr ""
+
+#: templates/resultados/datos_alumno.html:550
+msgid "NIVEL DE PREFERENCIA SOCIAL NEGATIVA (IPN): PESADO"
+msgstr ""
+
+#: templates/resultados/resultados_grafo.html:14
+msgid "Ver resultados completos"
+msgstr ""
+
+#: templates/resultados/resultados_grafo.html:23
+msgid "Filtrar relaciones"
+msgstr "Filtrar relacións"
+
+#: templates/resultados/resultados_grafo.html:28
+msgid "Se eligen "
+msgstr "Elíxense "
+
+#: templates/resultados/resultados_grafo.html:28
+#: templates/resultados/resultados_grafo.html:43
+msgid "mutuamente"
+msgstr "mutuamente"
+
+#: templates/resultados/resultados_grafo.html:32
+#: templates/resultados/resultados_grafo.html:47
+msgid "Oposición"
+msgstr ""
+
+#: templates/resultados/resultados_grafo.html:32
+msgid " de sentimiento"
+msgstr " de sentimento"
+
+#: templates/resultados/resultados_grafo.html:36
+#: templates/resultados/resultados_grafo.html:51
+#: templates/resultados/resultados_grafo.html:66
+#: templates/resultados/resultados_grafo.html:81
+msgid "Otras"
+msgstr "Outras"
+
+#: templates/resultados/resultados_grafo.html:43
+msgid "Se rechazan "
+msgstr "Rexéitanse "
+
+#: templates/resultados/resultados_grafo.html:47
+msgid " de sentimiento (OS)"
+msgstr " de sentimento"
+
+#: templates/resultados/resultados_grafo.html:58
+#: templates/resultados/resultados_grafo.html:73
+msgid "Cree que lo "
+msgstr "Cre que o "
+
+#: templates/resultados/resultados_grafo.html:58
+msgid "eligen y acierta"
+msgstr "elixen e acerta"
+
+#: templates/resultados/resultados_grafo.html:62
+#: templates/resultados/resultados_grafo.html:77
+msgid "Oposición entre "
+msgstr ""
+
+#: templates/resultados/resultados_grafo.html:62
+msgid "la expectativa de ser elegido y la realidad de ser rechazado"
+msgstr "a expectativa de ser elixido e a realidade de ser rexeitado"
+
+#: templates/resultados/resultados_grafo.html:73
+msgid "rechazan y acierta"
+msgstr "rexeitan e acerta"
+
+#: templates/resultados/resultados_grafo.html:77
+msgid "la expectativa de ser rechazado y la realidad de ser elegido "
+msgstr "a expectativa de ser rexeitado e a realidade de ser elixido"
+
+#: templates/resultados/resultados_grafo.html:91
+msgid "Índices"
+msgstr "Índices"
+
+#: templates/resultados/resultados_grafo.html:96
+msgid "Cohesión de grupo (IC)"
+msgstr ""
+
+#: templates/resultados/resultados_grafo.html:103
+msgid "Disociación de grupo (ID)"
+msgstr ""
+
+#: templates/resultados/resultados_grafo.html:110
+msgid "Actividad media de afinidad (Iap)"
+msgstr "Actividade media de afinidade (Iap)"
+
+#: templates/resultados/resultados_grafo.html:117
+msgid "Disociación de grupo (Ian)"
+msgstr ""
+
+#: templates/teacher/menu.html:5
+msgid "Estudiantes"
+msgstr "Estudantes"
+
+#: templates/teacher/menu.html:6
+msgid "Cuestionarios"
+msgstr ""
+
+msgid "¿No tiene una cuenta?"
+msgstr "Non ten unha conta?"
+
+msgid "Regístrese"
+msgstr "Rexístrese"
+
+msgid "¿Ha olvidado su contraseña?"
+msgstr "Esquenceu o seu contrasinal?"
+
+msgid "Recupérela"
+msgstr "Recupéreo"
+
+msgid "Recuperación de contraseña"
+msgstr "Recuperación de contrasinal"
+
+msgid "Por favor, introduzca el correo electrónico asociado a su usuario y le mandaremos instrucciones para recuperar su contraseña"
+msgstr "Por favor, introduza o correo electrónico asociado a o seu usurio, enviarémoslle as intruccións para recuperar o seu contrasinal"
+
+msgid "Compruebe su correo"
+msgstr "Comprobe o seu correo"
+
+msgid "Le hemos enviado las instrucciones para recuperar su contraseña"
+msgstr "As instruccións para recuperar o seu contrasinal foron enviadas"
+
+msgid "Registro"
+msgstr "Rexistro"
+
+msgid "Don/Doña"
+msgstr "Don/Dona"
+
+msgid "como profesor/a de los alumnos/as evaluados/as declaro que me hago responsable de la custodia de los nombres de usuario y contraseñas del alumnado que va a utilizar Atopa, así como de los datos obtenidos de los cuestionarios que se realicen con la aplicación."
+msgstr "como profesor/a dos alumnos/as avaliados/as declaro que son responsable da custodia dos nomes de usuario e contrasinais do alumnado que vai a empregar Atopa, así como dos datos obtidos dos cuestioanrios que se realicen coa aplicación"
+
+msgid "Acepto las condiciones"
+msgstr "Acepto as condicións"
+
+msgid "He leído y acepto los"
+msgstr "Lín e acepto os "
+
+msgid "Términos y condiciones y la Política de Privacidad"
+msgstr "Termos e condicións e a política de Privacidade"
+
+msgid "Mi cuenta"
+msgstr "A miña conta"
+
+msgid "Cambio de contraseña"
+msgstr "Cambio de contrasinal"
+
+msgid "Por favor, introduzca su contraseña antigua, por seguridad, y después introduzca la nueva contraseña dos veces para verificar que la ha escrito correctamente"
+msgstr "Por favor, introduza o seu antiguo contrasinal, por seguridade, e despois introduza o novo dúas veces para verificar que o escribiu correctamente"
+
+msgid "Su contraseña no puede asemejarse tanto a su otra información personal."
+msgstr "O seu contrasinal non pode asemmellarse tanto á súa outra información persoal"
+
+msgid "Su contraseña debe contener al menos 8 caracteres."
+msgstr "O seu contrasinal debe conter polo menos 8 caracteres"
+
+msgid "Su contraseña no puede ser una clave utilizada comunmente."
+msgstr "O seu contrasinal non pode ser unha palabra utilizada comunmente"
+
+msgid "Su contraseña no puede ser completamente numérica."
+msgstr "O seu contrasinal non pode ser completemente numérico"
+
+msgid "Obligatorio. 150 caracteres como máximo. Únicamente letras, dígitos y @, ., +, -, _"
+msgstr "Obrigatorio. 150 caracteres como máximo. Unicamente letras, díxitos e @m ., +, -, _"
+
+msgid "Obligatorio"
+msgstr "Obrigatorio"
+
+msgid "Obligatorio. Introduzca una dirección de correo válida"
+msgstr "Obrigatorio. Introduza unha dirección de correo válida"
+
+msgid "8 caracteres como mínimo. Debe tener letras y dígitos"
+msgstr "8 caracteres como mínimo. Debe ter letras e díxitos"
+
+msgid "Para verificar, introduzca la misma contraseña anterior"
+msgstr "Para verificar, introduza a mesmo contrasinal"
+
+msgid "Su contraseña ha sido cambiada correctamente"
+msgstr "O seu contrasinal foi cambiado correctamente"
+
+msgid "Ya existe un usuario con ese email"
+msgstr "Xa existe un usuario con ese email"
+
+msgid "El nombre de usuario es demasiado largo"
+msgstr "O nome de usuario é demasiado longo"
+
+msgid "La contraseña es demasiado corta"
+msgstr "O contrasinal é demasiado curto"
+
+msgid "Ya existe una clase con ese nombre"
+msgstr "Xa existe unha clase con ese nome"
+
+msgid "El formato del DNI no es correcto"
+msgstr "O formato do DNI non é correcto"
+
+msgid "Ya existe un alumno con ese DNI"
+msgstr "Xa existe un alumno con ese DNI"
+
+msgid "Ya existe un alumno con ese alias"
+msgstr "Xa existe un alumno con ese alias"
+
+msgid "Nombre"
+msgstr "Nome "
+
+msgid "Grupo edad"
+msgstr "Grupo idade"
+
+msgid "Apellidos"
+msgstr "Apelidos"
+
+msgid "Fecha nacimiento"
+msgstr "Data de nacemento"
+
+msgid "Leyenda de Colores"
+msgstr "Lenda de Cores"
+
+msgid "Percepción del grupo positiva"
+msgstr "Percepción do grupo positiva"
+
+msgid "Percepción del grupo negativa"
+msgstr "Percepción do grupo negativa"
+
+msgid "Oposición entre la expectativa de ser elegido y la realidad de ser rechazado (OIP)"
+msgstr "Oposición entre a expectativa de ser elexido e a realidade de ser rexeitado (OIP)"
+
+msgid "Oposición entre la expectativa de ser rechazado y la realidad de ser elegido (OIN)"
+msgstr "Oposición entre a expectativa de ser rexeitado e a realidade de ser elexido (OIN)"
+
+msgid "Adivina quién ayuda más a sus compañeros y compañeras."
+msgstr "Adiviña quen axuda mais aos compañeiros e compañeiras."
+
+msgid "Adivina quién es el compañero o compañera más feliz."
+msgstr "Adiviña quen é o compañeiro ou compañeira mais feliz."
+
+msgid "Adivina quién es el compañero o compañera más listo o lista de la clase."
+msgstr "Adiviña quen é o compañeiro oi compañeira mais listo ou lista da clase."
+
+msgid "Adivina quién es el compañero o compañera más triste."
+msgstr "Adiviña quen é o compañeiro ou compañeira mais triste."
+
+msgid "Adivina quién es el compañero o compañera que sabe comunicarse mejor y que le entienden y escuchen con más facilidad."
+msgstr "Adiviña quen é o compañeiro ou compañeira que sabe comunicarse mellor e o que entenden e escoitan con mais facilidade."
+
+msgid "Adivina quién es el compañero o compañera que tiene capacidad para atender y escuchar a los demás."
+msgstr "Adiviña quen e o compañeiro ou compañeira que ten capacidad para atender e escoitar aos demais."
+
+msgid "Adivina quién es el compañero o compañera que tiene capacidad para resolver conflictos entre los compañeros y compañeras."
+msgstr "Adiviña quen é o compañeiro ou compañeira que ten capacidade para resolver conflitos entre os compañeiros e compañeiras."
+
+msgid "Adivina quién es el compañero o compañera que tiene más amigos y amigas."
+msgstr "Adiviña quen é o compañeiro ou compañeira que ten mais amigos e amigas."
+
+msgid "Adivina quién es el compañero o compañera que tiene menos amigos y amigas."
+msgstr "Adiviña quen é o compañeiro ou compañeira que ten menos amigos e amigas."
+
+msgid "Adivina quién es el compañero o compañera que tiene problemas para comunicarse."
+msgstr "Adiviña quen é o compañeiro ou compañeira que ten problemas para comunicarse."
+
+msgid "Adivina quién es el niño o la niña al que más quiere la profesora o profesor."
+msgstr "Adiviña quen é o neno ou a nena ó que mais quere a profesora ou profesor."
+
+msgid "Adivina quién es el niño o la niña al que menos quiere la profesora o el profesor."
+msgstr "Adiviña quen é o neno ou a nea ó que menos quere a profesora ou o profesor."
+
+msgid "Adivina quién es el o la que menos sabe en clase."
+msgstr "Adiviña quen é o ou a que menos sabe na clase."
+
+msgid "Adivina quién es más maleducado o maleducada con los compañeros y compañeras."
+msgstr "Adiviña quen é mais maleducado ou maleducada cos compañeiros e compañeiras."
+
+msgid "Adivina quién molesta más a sus compañeros y compañeras."
+msgstr "Adiviña quen molesta mais os seus compañeiros e compañeiras."
+
+msgid "Adivina quién tiene capacidad para resolver conflictos entre los compañeros y compañeras."
+msgstr "Adiviña quen ten capacidade para resolver conflitos entre os compañieros e compañeiras."
+
+msgid "Dime aquel compañero o compañera que crees que tiene más amigos en facebook."
+msgstr "Dime aquel compañeiro ou compañeira que crees que ten mais amigos en facebook."
+
+msgid "Dime aquel compañero o compañera que crees que tiene más seguidores en twitter o instagram."
+msgstr "Dime aquel compañeiro o compañeira que crees que ten mais seguidores en twitter ou instagram."
+
+msgid "Dime aquel compañero o compañera que crees que tiene menos amigos en facebook."
+msgstr "Dime aquel compañeiro o compañeira que crees que ten menos amigos en facebook."
+
+msgid "Dime aquel compañero o compañera que crees que tiene menos seguidores en twitter o instagram."
+msgstr "Dime aquel compañeiro ou compañeira que crees que ten menos seguidores en twitter ou instagram."
+
+msgid "Dime aquel compañero o compañera que cuando llega a los grupos molesta, no comparte ni respeta, e intenta que todos hagan las cosas a su manera."
+msgstr "Dime aquel compañeiro ou compañeira que cando chega ós grupos molesta, no comparte ni respecta, e intenta que todos fagan as cousas a súa maneira."
+
+msgid "Dime aquel compañero o compañera que empieza las peleas, se mete con los demás, les empuja o les pega."
+msgstr "Dime aquel compañeiro ou compañeira que empeza as pelexas, métese cos demais, empurralles ou pégalles."
+
+msgid "Dime aquel compañero o compañera que es elegido como líder, como niño o niña más popular de la clase."
+msgstr "Dime aquel compañeiro ou compañeira que é elixido como líder, como o neno ou a nena mais popular da clase."
+
+msgid "Dime aquel compañero o compañera que es muy agradable, cordial y realmente bueno o buena para trabajar en equipo."
+msgstr "Dime aquel compañeiro ou compañeira que é moi agradable, cordial e realmente bo ou boa para traballar en equipo."
+
+msgid "Dime aquel compañero o compañera que es muy agradable, cordial y realmente bueno o buena para trabajar en equipo. Coopera, ayuda, comparte y respeta los turnos."
+msgstr "Dime aquel compañeiro o compañeira que é moi agradable, cordial e realmente bo ou boa para traballar en equipo. Coopera, axuda, comparte e respecta os turnos."
+
+msgid "Dime aquel compañero o compañera que es muy tímido o tímida con los demás, siempre juega o trabaja solo o sola y es más difícil llegar a conocer."
+msgstr "Dime aquel compañeiro o compañeira que é moi tímido ou tímida cos demais, siempre xoga ou traballa so ou soa e é mais difícil de chegar a coñecer."
+
+msgid "Dime aquel compañero o compañera que molesta más a los demás."
+msgstr "Dime aquel compañeiro ou compañeira que molesta mais os demais"
+
+msgid "Dime aquel compañero o compañera que no comparte ni respeta a los demás."
+msgstr "Dime aquel compañeiro ou compañeira que non comparte nin respecta ós demais."
+
+msgid "Dime aquel compañero o compañera que se mete con los demás."
+msgstr "Dime aquel compañeiro ou compañeira que se mete cos demais."
+
+msgid "Dime aquel compañero o compañera que siempre pide ayuda para hacer cualquier cosa, incluso antes de haberlo intentado."
+msgstr "Dime aquel compañeiro ou compañeira que sempre pide axuda para facer calquera cousa, incluso antes de telo intentado."
+
+msgid "Dime quién es el compañero o compañera que trolea en las redes sociales para reirse de los demás."
+msgstr "Dime quen é o compañeiro ou comapñeira que trolea nas redes sociaos para rirse dos demais."
+
+msgid "Si pudieras invitar a una fiesta, una excursión, un partido a algunos amigos de clase, ¿a qué personas de la clase NO invitarías? ¿Por qué?"
+msgstr "Se puides invitar a unha festa, unha excursión, un partido a alguns amigos e amigas de clase, a que persoas da clase NON invitarias? Por que?"
+
+msgid "Si pudieras invitar a una fiesta, una excursión, un partido a algunos amigos y amigas de clase, ¿a qué personas de la clase invitarías?"
+msgstr "Si puideras invitar a unha festa, unha excursión, um partido a alguns amigos e amigas de clase, a que persoas da clase invitarias."
+
+msgid "Si pudieras invitar a una fista, una excursión, un partido a algunos amigos de clase, ¿a quiénes invitarías?"
+msgstr "Se puideras invitar a unha festa, unha excursión, un partido a algúns amigos e amigas da clase, a quen invitarias?"
+
+msgid "Si pudieses invitar a una fiesta, una excursión, un partido a algunos amigos o amigas de clase, ¿a quién o quiénes NO invitarías?¿Por qué?"
+msgstr "Se puideras invitar a unha festa, unha excursión, un partido a algúns amigos e amigas da clase, a quen ou quenes NON invitarias? Por que?"
+
+msgid "Si tuvieses que escoger un grupo de compañeros para hacer una obra de teatro, ¿a quiénes NO escogerías? ¿Por qué?"
+msgstr "Se tiveses que escoller un grupo de compañeiros e compañeiras  para facer unha obra de teatro, a quen NON escollerías? Por qué?"
+
+msgid "Si tuvieses que escoger un grupo de compañeros y compañeras para hacer una obra de teatro, ¿a quiénes escogerías?"
+msgstr "Se tiveses que escoller a un grupo de compañeiros e compañeiras para facer unha obra de teatro, a quen escollerías? "
+
+msgid "¿A qué compañero o compañera NO llamarías para quedar una tarde? ¿Por qué?"
+msgstr "A que compañeiro ou compañeira NON chamarías para quedar unha tarde? Por que?"
+
+msgid "¿A qué compañeros o compañeras elegirías para hacer un trabajo en grupo?"
+msgstr "A que compañeiros e compañeiras elixirias para facer un traballo en grupo?"
+
+msgid "¿A qué compañeros o compañeras escogerías para formar un equipo de baloncesto en educación física?"
+msgstr "A que compañeiros ou compañeiras escollerias para formar un equipo de balonces en educación física?"
+
+msgid "¿A qué compañeros o compañeras mandarías una solicitud de amistad por facebook?"
+msgstr "A que compañeiros ou compañeiras mandarías unha solicitude de amizade por facefook?"
+
+msgid "¿A qué compañeros o compañeras NO elegirías para hacer un trabajo en grupo? ¿Por qué?"
+msgstr "A que compañeiros ou compañeiras NON escollerías para facer un trabllo en grupo? Por que?"
+
+msgid "¿A qué compañeros o compañeras NO mandarías una solicitud de amistad en facebook? ¿Por qué?"
+msgstr "A que compañeiros ou compañeiras NON mandarias unah solicitude de amizade en facebook? Por que?"
+
+msgid "¿A qué compañeros o compañeras NO pedirías consejo ante un problema personal? ¿Por qué?"
+msgstr "A que compañeiros ou compañeiras NON pedirias consello ante un problema persoal? Por que?"
+
+msgid "¿A qué compañeros o compañeras NO seguirías en istagram o twitter? ¿Por qué?"
+msgstr "A que compañeiros ou compañeiras NON seguirias en instagram ou twitter? Por que?"
+
+msgid "¿A qué compañeros o compañeras pedirías consejo ante problemas personales?"
+msgstr "A que compañeiros ou compañeiras pedirías consello ante problemas persoais?"
+
+msgid "¿A qué compañeros o compañeras pedirías consejo ante un problema personal?"
+msgstr "A que compañairo ou compañeira pedirias consello ante un problema persoal?"
+
+msgid "¿A qué compañeros o compañeras seguirías en istagram o twitter?"
+msgstr "A que compañeiros ou compañeiras seguirias en istagram ou twitter?"
+
+msgid "¿A qué personas de la clase crees que les pareces simpático?"
+msgstr "A que persoas da clase cress que lles pareces simpático ou simpática?"
+
+msgid "¿A qué personas de la clase crees que NO les pareces simpático o simpática?  ¿Por qué?"
+msgstr "A que persoas da clase cress que NON lles pareces simpático ou simpática? Por que?"
+
+msgid "¿A qué personas de la clase invitarías a tu cumpleaños?"
+msgstr "A que persoas da clase invitarias ó teu cumpreanos?"
+
+msgid "¿A qué personas de la clase NO invitarías a tu cumpleaños? ¿Por qué?"
+msgstr "A que persoas da clases NON invitarias ó teu cumpreanos? Por que?"
+
+msgid "¿A qué personas de tu clase crees que les gustaría ir al cine contigo?"
+msgstr "A que persoas da clase cress que lles gustaría ir ó cine contigo?"
+
+msgid "¿A qué personas de tu clase crees que les gustaría ir al cine el próximo viernes contigo?"
+msgstr "A que personas da túa clase crees que lles gustaría ir o cine o proximo venres contigo?"
+
+msgid "¿A qué personas de tu clase crees que les gustaría quedar a estudiar contigo?"
+msgstr "A que persoas da túa clase cress que lles gustaría quedar a estudar contigo?"
+
+msgid "¿A qué personas de tu clase crees que NO les gustaría ir al cine contigo?  ¿Por qué?"
+msgstr "A que persoas da túa clase crees que NON lles gustaría ir ó cine contigo? Por que?"
+
+msgid "¿A qué personas de tu clase crees que NO les gustaría quedar para estudiar contigo?  ¿Por qué?"
+msgstr "A que persoas da túa clase cress que NON lles gustaría quedar para estudar contigo? Por que?"
+
+msgid "¿A qué personas NO elegirías para hacer un trabajo de clase? ¿Por qué?"
+msgstr "A que persoas NON escollerías para facer un traballo de clase? Por que?"
+
+msgid "¿Con qué compañeros o compañeras NO te gustaría quedar para estudiar? ¿Por qué?"
+msgstr "Con que compañeiros ou compañeiras NON che gustaria quedar para estudar? Por que?"
+
+msgid "¿Con qué compañeros o compañeras NO te gustaría sentarte en el aula?¿Por qué?"
+msgstr "Con que compañeiros ou compañeiras NON che gustaria sentarte na aula? Por que?"
+
+msgid "¿Con qué compañeros o compañeras prefiers NO encontrarte en un cumpleaños? ¿Por qué?"
+msgstr "Con que compañeiros ou compañeiras prefires NON encontrarte nun cumpreanos? Por que?"
+
+msgid "¿Con qué compañeros o compañeras te gustaría quedar para estudiar?"
+msgstr "Con que compañeiros ou compañeiras non che gustaría quedar para estudar?"
+
+msgid "¿Con qué compañeros o compañeras te gustaría sentarte en el aula?"
+msgstr "Con que compañeiros ou compañeiras gustaríache sentarte na aula?"
+
+msgid "¿Con qué personas de la clase irías al cine el próximo viernes?"
+msgstr "Con que persoas da clase irías o cine o próximo venres?"
+
+msgid "¿Con qué personas de la clase NO te gusta trabajar o NO elegirías para hacer un trabjo de clase? ¿Por qué?"
+msgstr "Con que persoas da clases NON te gusta traballar e NON escollerías para facer un traballo da clase? Por que?"
+
+msgid "¿Con qué personas de la clase prefieres trabajar o elegirías para hacer un trabajo de clase?"
+msgstr "Con que personas da clase prefires traballas ou escollerias para facer un traballo da clase?"
+
+msgid "¿Con qué personas prefieres estar juntos en el recreo?"
+msgstr "Con que persoas prefires estar xuntos no recreo?"
+
+msgid "¿Con qué personas prefieres jugar en el recreo?"
+msgstr "Con que persoas prefires xogar no recreo?"
+
+msgid "¿Con qué personas prefieres NO jugar en el recreo?¿Por qué?"
+msgstr "Con que persoas prefires NON xogar no recreo? Por que?"
+
+msgid "¿Con quién irias al cine el próximo viernes?"
+msgstr "Con quen irias ó cine o próximo venres?"
+
+msgid "¿Qué compañeros o compañeras crees que NO quieren sentarse en el aula contigo?  ¿Por qué?"
+msgstr "Que compañeiros ou compañeiras cress que NON queren sentarse na aula contigo? Por que?"
+
+msgid "¿Qué compañeros o compañeras crees que NO te escogerían para hacer una obra de teatro con ellos?  ¿Por qué?"
+msgstr "Que compañeiros ou compañeiras crees que NON te escollerían para facer unha obra de teatro con eles? Por que?"
+
+msgid "¿Qué compañeros o compañeras crees que NO te mandarían una solicitud de amistad por facebook?  ¿Por qué?"
+msgstr "Que compañeiros ou compañeiras crees que NON che mandarían unha soicitude de amizade por facebook? Por que?"
+
+msgid "¿Qué compañeros o compañeras crees que NO te pedirían consejo ante un problema personal?  ¿Por qué?"
+msgstr "Que compañeiros ou compañeiras cress que NON che pedirian consello ante un problema persoal? Por que?"
+
+msgid "¿Qué compañeros o compañeras crees que NO te seguirían en instagram o twitter?  ¿Por qué?"
+msgstr "Que compañeiros ou compañeiras cress que NON te seguirian en instagram ou en twitter? Por que?"
+
+msgid "¿Qué compañeros o compañeras crees que quieren sentarse en el aula contigo?"
+msgstr "Que compañeiros ou compañeiras cress que queren sentarse na aula contigo?"
+
+msgid "¿Qué compañeros o compañeras crees que te escogerían para hacer una obra de teatro con ellos?"
+msgstr "Que compañeiros ou compañeiras cress que te escollerían para facer unha obra de teatro con eles?"
+
+msgid "¿Qué compañeros o compañeras crees que te mandarían una solicitud de amistad por facebook?"
+msgstr "Que compañeiros ou compañeiras cress que che mandarian una solicitude de amizade por facebook?"
+
+msgid "¿Qué compañeros o compañeras crees que te pedirían consejo ante un problema personal?"
+msgstr "Que compañeiros ou compañeiras cress que che pedirian consello ante un problema persoal?"
+
+msgid "¿Qué compañeros o compañeras crees que te seguirían en istagram o twitter?"
+msgstr "Que compañeiros ou compañeiras cress que te segurían en instagram ou twitter?"
+
+msgid "¿Qué compañeros o compañeras NO te parecen simpáticos? ¿Por qué?"
+msgstr "Que compañeiros ou compañeiras NON che parecen simpáticos? Por que?"
+
+msgid "¿Qué compañeros o compañeras te parecen más simpáticos?"
+msgstr "Que compañeiros ou compañeiras parecenche mais simpáticos?"
+
+msgid "¿Qué niños o niñas crees que NO te escogerían para estar juntos en el recreo?  ¿Por qué?"
+msgstr "Que nenos ou nenas cress que NON che escollerían para estar xuntos no recreo? POr que?"
+
+msgid "¿Qué niños o niñas crees que NO te escogerían para jugar en el el recreo? ¿Por qué?"
+msgstr "Que nenos ou nenas crees que NON che escollerían para xogar no recreo? Por que?"
+
+msgid "¿Qué niños o niñas crees que te escogerían para jugar en el recreo?"
+msgstr "Que nenos ou nenas crees que che escollerían para xogar no recreo? "
+
+msgid "¿Qué niños o niñas cress que te escogerían para estar juntos en el recreo?"
+msgstr "Que nenos ou nenas crees que che escollería para estar xuntos no recreo?"
+
+msgid "¿Qué personas de tu clase crees que NO les gustaría ir al cine contigo?  ¿Por qué?"
+msgstr "Que persoas da túa clase crees que NON lles gustaría ir ó cine contigo? Por que?"
+
+msgid "¿Qué personas de tu clase crees que NO te echarían de menos si cambiases de colegio?  ¿Por qué?"
+msgstr "Que persoas da túa clase crees que NON te votarían de menos se cambiases de escola? Por que?"
+
+msgid "¿Qué personas de tu clase crees que NO te invitarían a una fiesta, una excursión, o un partido?  ¿Por qué?"
+msgstr "Que persoas da túa clase cress que NON te invitrían a unha festa, unha excursión, ou un partido? Por que?"
+
+msgid "¿Qué personas de tu clase crees que te invitarían a una fiesta, a una excursión, o a un partido?"
+msgstr "Que persoas da túa clase cress que te invitrían a unha festa, a unha excursión, ou a un partido?"
+
+msgid "¿Qué personas de tu clase cress que te invitarían a una fiesta, una excursión, o un partido?"
+msgstr "Que persoas da túa clase cress que te invitarían a unha festa, unha excursión, ou un partido?"
+
+msgid "¿Qué personas de tu clase echarías de menos si no estuviesen?"
+msgstr "Que persoas da túa clase votarías de menos se non estivesen?"
+
+msgid "¿Qué persosnas de tu clase crees que te echarían de menos si cambiases de colegio?"
+msgstr "Que persoas da túa clase cress que te votarían de menos se cambiases de escola?"
+
+msgid "¿Quién o quiénes crees que NO te escogen como amigo o amiga?  ¿Por qué?"
+msgstr "Quen cress que NON te escollería como amigo ou amiga? Por que?"
+
+msgid "¿Quién o quiénes crees que NO te han elegido como compañero o compañera de trabajo?  ¿Por qué?"
+msgstr "Quen crees que NON te escolleu como compañeiro ou compañeira de traballo? Por que?"
+
+msgid "¿Quién o quiénes crees que NO te han elegido para formar un grupo de trabajo?  ¿Por qué?"
+msgstr "Quen cress que NON te escolleu para formar un grupo de traballo? Por que?"
+
+msgid "¿Quién o quiénes crees que NO te han elegido para hacer un trabajo de aula? ¿Por qué?"
+msgstr "Quen crees que NON te escolleu para facer un traballo de aula? Por que?"
+
+msgid "¿Quién o quiénes crees que NO te van a invitar a su cumpleaños?  ¿Por qué?"
+msgstr "Que crees que NON vai invitarte o seu cumpreanos? Por que?"
+
+msgid "¿Quién o quiénes crees que te escogen como mejor amigo o mejor amiga?"
+msgstr "Quen crees que te escolle como mellor amigo ou amiga?"
+
+msgid "¿Quién o quiénes crees que te han elegido para formar un grupo de trabajo?"
+msgstr "Quen crees que te escolleu para formar un grupo de traballo?"
+
+msgid "¿Quién o quiénes crees que te han elegido para hacer un trabajo de aula?"
+msgstr "Quen crees que te escolleu para facer un trabllo de aula?"
+
+msgid "¿Quién o quiénes crees que te van a  invitar a su cumpleaños?"
+msgstr "Quen crees que vai invitarte o seu cumpreanos?"
+
+msgid "¿Quiénes son los compañeros o compañeras de tu clase con los que NO te gustaría seguir el curso que viene? ¿Por qué?"
+msgstr "Quen son os compañeiros e compañeiras da túa clase cos que NON te gustaría seguir o curso que ven? Por que?"
+
+msgid "¿Quiénes son los compañeros o compañeras de tu clase con los que te gustaría seguir el curso que viene?"
+msgstr "Quen son os compañeiros e compañeiras da túa clase cos que che gustaría seguir o curso que ven?"
+
+msgid "¿Quienes son tus mejores amigos y amigas?"
+msgstr "Quen son os teus mellores amigos e amigas?"
+
+msgid "¿Quiénes son tus mejores amigos?"
+msgstr "Quen son os teus mellores amigos e amigas?"

@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    background-color: #fff;
+    padding-bottom: 120px;
+}
+header{
+    padding: 10px 200px;
+    background-color: #007bff;
+    color: #fff;
+}
+footer {
+    padding: 10px 200px;
+    background-color: #007bff;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+}
+.content-sign-in{
+    margin: 0 400px;
+    font-size: 1.5rem;
+}
+h2{
+    font-size: 2rem;
+    text-align: center;
+}
+small{
+    width: initial;
+}
+.content{
+    text-align: center;
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.container{
+    text-align: left;
+}
+.button-menu{
+    width: 49%;
+    height: 100px;
+}
+.buttons-list{
+    text-align: right;
+    margin: 5px;
+}
+.panel-heading{
+    border-bottom: 1px solid #ddd !important;
+}
+.hover-btn {
+    display: none;
+    float: right;
+}
+.quiz-btn {
+    float: right;
+}
+.btn-delete:hover {
+    fill:red;
+}
+.btn-edit:hover {
+    fill:green;
+}
+.panel-heading:hover .hover-btn {
+     display: block;
+  }
+.tabla-collapse{
+    width:82%;
+}
+.list-quiz{
+    width:82%;
+}
+td{
+    text-align:left;
+}
+.breadcrumb{
+    padding: 10px 200px;
+    margin: 0 auto;
+}
+.login-wrapper{
+    border: 5px #007bffa3 solid;
+    padding: 15px;
+}

@@ -1,0 +1,1778 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-08-29 02:24+0200\n"
+"PO-Revision-Date: 2022-08-29 02:25+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: database/models/alumno.py:65
+msgid "Hombre"
+msgstr ""
+
+#: database/models/alumno.py:67
+msgid "Mujer"
+msgstr ""
+
+#: resources/resultados.py:253 resources/resultados.py:255
+#: resources/resultados.py:257 resources/resultados.py:261
+#: resources/resultados.py:267 resources/resultados.py:269
+#: resources/resultados.py:271 resources/resultados.py:275
+#: resources/resultados.py:626 resources/resultados.py:803
+#: resources/resultados.py:869 resources/resultados.py:881
+#: resources/resultados.py:892 resources/resultados.py:921
+#: resources/resultados.py:1021 resources/resultados.py:1065
+#: resources/resultados.py:1066 resources/resultados.py:1229
+#: resources/resultados.py:1230 resources/resultados.py:1286
+#: resources/resultados.py:1287 resources/resultados.py:1343
+#: resources/resultados.py:2159 resources/resultados.py:2164
+#: resources/resultados.py:2169 resources/resultados.py:2178
+#: resources/resultados.py:2180 resources/resultados.py:2184
+#: resources/resultados.py:2186 resources/resultados.py:2189
+#: resources/resultados.py:2201 resources/resultados.py:2203
+#: resources/resultados.py:3206 resources/resultados.py:3213
+#: resources/resultados.py:3840
+msgid "Alto"
+msgstr ""
+
+#: resources/resultados.py:253 resources/resultados.py:255
+#: resources/resultados.py:260 resources/resultados.py:264
+#: resources/resultados.py:265 resources/resultados.py:271
+#: resources/resultados.py:273 resources/resultados.py:274
+#: resources/resultados.py:277 resources/resultados.py:278
+#: resources/resultados.py:281 resources/resultados.py:282
+#: resources/resultados.py:283 resources/resultados.py:285
+#: resources/resultados.py:596 resources/resultados.py:783
+#: resources/resultados.py:803 resources/resultados.py:836
+#: resources/resultados.py:869 resources/resultados.py:932
+#: resources/resultados.py:973 resources/resultados.py:2156
+#: resources/resultados.py:2162 resources/resultados.py:2172
+#: resources/resultados.py:2175 resources/resultados.py:2182
+#: resources/resultados.py:3210 resources/resultados.py:3217
+#: resources/resultados.py:3817
+msgid "Bajo"
+msgstr ""
+
+#: resources/resultados.py:254
+msgid "Líder"
+msgstr ""
+
+#: resources/resultados.py:256
+msgid "Astro"
+msgstr ""
+
+#: resources/resultados.py:257 resources/resultados.py:259
+#: resources/resultados.py:260 resources/resultados.py:261
+#: resources/resultados.py:263 resources/resultados.py:264
+#: resources/resultados.py:269 resources/resultados.py:274
+#: resources/resultados.py:278 resources/resultados.py:279
+#: resources/resultados.py:282 resources/resultados.py:285
+#: resources/resultados.py:3208 resources/resultados.py:3215
+msgid "Medio"
+msgstr ""
+
+#: resources/resultados.py:258
+msgid "Popular"
+msgstr ""
+
+#: resources/resultados.py:262
+msgid "Integrado"
+msgstr ""
+
+#: resources/resultados.py:266
+msgid "Solitario"
+msgstr ""
+
+#: resources/resultados.py:268
+msgid "Polémico"
+msgstr ""
+
+#: resources/resultados.py:270
+msgid "Rechazo Parcial"
+msgstr ""
+
+#: resources/resultados.py:272
+msgid "Rechazo Total"
+msgstr ""
+
+#: resources/resultados.py:276
+msgid "Desatendido"
+msgstr ""
+
+#: resources/resultados.py:280
+msgid "Ignorado"
+msgstr ""
+
+#: resources/resultados.py:284
+msgid "Aislado"
+msgstr ""
+
+#: resources/resultados.py:286
+msgid "Eminencia gris, elegido por el líder"
+msgstr ""
+
+#: resources/resultados.py:429 resources/resultados.py:433
+msgid "Elige a "
+msgstr ""
+
+#: resources/resultados.py:429 resources/resultados.py:433
+msgid " pero "
+msgstr ""
+
+#: resources/resultados.py:430 resources/resultados.py:1148
+#: resources/resultados.py:1187 resources/resultados.py:1198
+#: resources/resultados.py:1302
+msgid " lo/la rechaza por el motivo \""
+msgstr ""
+
+#: resources/resultados.py:434 resources/resultados.py:1151
+#: resources/resultados.py:1193 resources/resultados.py:1203
+#: resources/resultados.py:1305
+msgid " lo/la rechaza"
+msgstr ""
+
+#: resources/resultados.py:447 resources/resultados.py:451
+#: resources/resultados.py:1036 resources/resultados.py:1039
+#: resources/resultados.py:1184 resources/resultados.py:1190
+#: resources/resultados.py:1196 resources/resultados.py:1201
+#: resources/resultados.py:1245 resources/resultados.py:1248
+msgid "Rechaza a "
+msgstr ""
+
+#: resources/resultados.py:447 resources/resultados.py:1036
+#: resources/resultados.py:1185 resources/resultados.py:1191
+#: resources/resultados.py:1245
+msgid " por el motivo \""
+msgstr ""
+
+#: resources/resultados.py:448 resources/resultados.py:1186
+#: resources/resultados.py:1192
+msgid "\" y "
+msgstr ""
+
+#: resources/resultados.py:449 resources/resultados.py:452
+msgid " lo elige"
+msgstr ""
+
+#: resources/resultados.py:451 resources/resultados.py:1044
+#: resources/resultados.py:1054 resources/resultados.py:1091
+#: resources/resultados.py:1110 resources/resultados.py:1120
+#: resources/resultados.py:1156 resources/resultados.py:1197
+#: resources/resultados.py:1202 resources/resultados.py:1209
+#: resources/resultados.py:1219 resources/resultados.py:1253
+#: resources/resultados.py:1264 resources/resultados.py:1274
+#: resources/resultados.py:1312 resources/resultados.py:1323
+#: resources/resultados.py:1333 resources/resultados.py:1367
+#: resources/resultados.py:1377
+msgid " y "
+msgstr ""
+
+#: resources/resultados.py:461 resources/resultados.py:473
+#: resources/resultados.py:478 resources/resultados.py:490
+#: resources/resultados.py:509 resources/resultados.py:524
+#: resources/resultados.py:536 resources/resultados.py:548
+#: resources/resultados.py:558 resources/resultados.py:588
+#: resources/resultados.py:598 resources/resultados.py:605
+#: resources/resultados.py:642 resources/resultados.py:649
+#: resources/resultados.py:682 resources/resultados.py:689
+#: resources/resultados.py:731 resources/resultados.py:739
+#: resources/resultados.py:785 resources/resultados.py:792
+#: resources/resultados.py:826 resources/resultados.py:986
+#: resources/resultados.py:1052 resources/resultados.py:1217
+#: resources/resultados.py:1251 resources/resultados.py:1262
+#: resources/resultados.py:1272 resources/resultados.py:1310
+#: resources/resultados.py:1321 resources/resultados.py:1331
+#: resources/resultados.py:1365 resources/resultados.py:1375
+msgid "Educación en valores"
+msgstr ""
+
+#: resources/resultados.py:461 resources/resultados.py:473
+#: resources/resultados.py:478 resources/resultados.py:490
+#: resources/resultados.py:509 resources/resultados.py:524
+#: resources/resultados.py:536 resources/resultados.py:548
+#: resources/resultados.py:558 resources/resultados.py:588
+#: resources/resultados.py:599 resources/resultados.py:643
+#: resources/resultados.py:683 resources/resultados.py:732
+#: resources/resultados.py:786 resources/resultados.py:1252
+#: resources/resultados.py:1311
+msgid "Interculturalidad"
+msgstr ""
+
+#: resources/resultados.py:462 resources/resultados.py:479
+#: resources/resultados.py:491 resources/resultados.py:510
+#: resources/resultados.py:525 resources/resultados.py:537
+#: resources/resultados.py:549 resources/resultados.py:559
+#: resources/resultados.py:589 resources/resultados.py:793
+#: resources/resultados.py:987 resources/resultados.py:1053
+#: resources/resultados.py:1218 resources/resultados.py:1263
+#: resources/resultados.py:1322 resources/resultados.py:1366
+msgid "Respeto y tolerancia"
+msgstr ""
+
+#: resources/resultados.py:463 resources/resultados.py:474
+#: resources/resultados.py:480 resources/resultados.py:492
+#: resources/resultados.py:511 resources/resultados.py:526
+#: resources/resultados.py:538 resources/resultados.py:550
+#: resources/resultados.py:560 resources/resultados.py:590
+#: resources/resultados.py:606 resources/resultados.py:650
+#: resources/resultados.py:690 resources/resultados.py:740
+msgid "Solidaridad"
+msgstr ""
+
+#: resources/resultados.py:464 resources/resultados.py:481
+#: resources/resultados.py:493 resources/resultados.py:512
+#: resources/resultados.py:527 resources/resultados.py:539
+#: resources/resultados.py:551 resources/resultados.py:561
+#: resources/resultados.py:591 resources/resultados.py:827
+#: resources/resultados.py:1273 resources/resultados.py:1332
+#: resources/resultados.py:1376
+msgid "Responsabilidad"
+msgstr ""
+
+#: resources/resultados.py:465 resources/resultados.py:475
+#: resources/resultados.py:482 resources/resultados.py:500
+#: resources/resultados.py:528 resources/resultados.py:540
+#: resources/resultados.py:612 resources/resultados.py:619
+#: resources/resultados.py:656 resources/resultados.py:663
+#: resources/resultados.py:671 resources/resultados.py:697
+#: resources/resultados.py:705 resources/resultados.py:747
+#: resources/resultados.py:755 resources/resultados.py:763
+#: resources/resultados.py:805 resources/resultados.py:816
+#: resources/resultados.py:859 resources/resultados.py:997
+#: resources/resultados.py:1008
+msgid "Grupo y aula"
+msgstr ""
+
+#: resources/resultados.py:465 resources/resultados.py:475
+#: resources/resultados.py:482 resources/resultados.py:500
+#: resources/resultados.py:528 resources/resultados.py:540
+#: resources/resultados.py:613 resources/resultados.py:657
+#: resources/resultados.py:698 resources/resultados.py:748
+#: resources/resultados.py:806 resources/resultados.py:860
+#: resources/resultados.py:998
+msgid "Cohesión de grupo"
+msgstr ""
+
+#: resources/resultados.py:465 resources/resultados.py:476
+#: resources/resultados.py:482 resources/resultados.py:501
+#: resources/resultados.py:528 resources/resultados.py:540
+#: resources/resultados.py:664 resources/resultados.py:756
+msgid "Gestión de aula"
+msgstr ""
+
+#: resources/resultados.py:466 resources/resultados.py:477
+#: resources/resultados.py:483 resources/resultados.py:502
+#: resources/resultados.py:529 resources/resultados.py:541
+#: resources/resultados.py:620 resources/resultados.py:672
+#: resources/resultados.py:706 resources/resultados.py:764
+#: resources/resultados.py:817 resources/resultados.py:1009
+msgid "Trabajo colaborativo y cooperativo"
+msgstr ""
+
+#: resources/resultados.py:467 resources/resultados.py:484
+#: resources/resultados.py:494 resources/resultados.py:503
+#: resources/resultados.py:513 resources/resultados.py:518
+#: resources/resultados.py:530 resources/resultados.py:542
+#: resources/resultados.py:552 resources/resultados.py:563
+#: resources/resultados.py:568 resources/resultados.py:573
+#: resources/resultados.py:578 resources/resultados.py:583
+#: resources/resultados.py:628 resources/resultados.py:635
+#: resources/resultados.py:715 resources/resultados.py:723
+#: resources/resultados.py:838 resources/resultados.py:850
+#: resources/resultados.py:871 resources/resultados.py:883
+#: resources/resultados.py:894 resources/resultados.py:903
+#: resources/resultados.py:912 resources/resultados.py:923
+#: resources/resultados.py:934 resources/resultados.py:963
+#: resources/resultados.py:975 resources/resultados.py:1042
+#: resources/resultados.py:1089 resources/resultados.py:1108
+#: resources/resultados.py:1118 resources/resultados.py:1154
+#: resources/resultados.py:1207
+msgid "Educación emocional"
+msgstr ""
+
+#: resources/resultados.py:467 resources/resultados.py:484
+#: resources/resultados.py:494 resources/resultados.py:503
+#: resources/resultados.py:513 resources/resultados.py:518
+#: resources/resultados.py:530 resources/resultados.py:542
+#: resources/resultados.py:552 resources/resultados.py:563
+#: resources/resultados.py:568 resources/resultados.py:573
+#: resources/resultados.py:578 resources/resultados.py:583
+#: resources/resultados.py:839 resources/resultados.py:851
+#: resources/resultados.py:872 resources/resultados.py:895
+#: resources/resultados.py:964
+msgid "Autoconcepto y autoestima"
+msgstr ""
+
+#: resources/resultados.py:468 resources/resultados.py:485
+#: resources/resultados.py:495 resources/resultados.py:504
+#: resources/resultados.py:514 resources/resultados.py:519
+#: resources/resultados.py:531 resources/resultados.py:543
+#: resources/resultados.py:553 resources/resultados.py:564
+#: resources/resultados.py:569 resources/resultados.py:574
+#: resources/resultados.py:579 resources/resultados.py:584
+#: resources/resultados.py:884 resources/resultados.py:904
+#: resources/resultados.py:924
+msgid "Autoregulación"
+msgstr ""
+
+#: resources/resultados.py:469 resources/resultados.py:486
+#: resources/resultados.py:496 resources/resultados.py:505
+#: resources/resultados.py:515 resources/resultados.py:520
+#: resources/resultados.py:532 resources/resultados.py:544
+#: resources/resultados.py:554 resources/resultados.py:565
+#: resources/resultados.py:570 resources/resultados.py:575
+#: resources/resultados.py:580 resources/resultados.py:585
+#: resources/resultados.py:629 resources/resultados.py:716
+#: resources/resultados.py:913 resources/resultados.py:935
+#: resources/resultados.py:1090 resources/resultados.py:1109
+#: resources/resultados.py:1155
+msgid "Habilidades sociales"
+msgstr ""
+
+#: resources/resultados.py:470 resources/resultados.py:487
+#: resources/resultados.py:497 resources/resultados.py:506
+#: resources/resultados.py:516 resources/resultados.py:521
+#: resources/resultados.py:533 resources/resultados.py:545
+#: resources/resultados.py:555 resources/resultados.py:566
+#: resources/resultados.py:571 resources/resultados.py:576
+#: resources/resultados.py:581 resources/resultados.py:586
+#: resources/resultados.py:976 resources/resultados.py:1043
+#: resources/resultados.py:1119
+msgid "Empatía"
+msgstr ""
+
+#: resources/resultados.py:471 resources/resultados.py:488
+#: resources/resultados.py:498 resources/resultados.py:507
+#: resources/resultados.py:517 resources/resultados.py:522
+#: resources/resultados.py:534 resources/resultados.py:546
+#: resources/resultados.py:556 resources/resultados.py:567
+#: resources/resultados.py:572 resources/resultados.py:577
+#: resources/resultados.py:582 resources/resultados.py:587
+#: resources/resultados.py:636 resources/resultados.py:724
+#: resources/resultados.py:1208
+msgid "Resolución de conflictos"
+msgstr ""
+
+#: resources/resultados.py:600 resources/resultados.py:607
+#: resources/resultados.py:614 resources/resultados.py:621
+msgid "El índice de cohesión (IC) del grupo es bajo."
+msgstr ""
+
+#: resources/resultados.py:601 resources/resultados.py:645
+#: resources/resultados.py:685 resources/resultados.py:735
+msgid ""
+"Se recomienda trabajar esta categoría en grupos en los que se dé la "
+"circunstancia de la multiculturalidad (raza, etnia, religión, etc.)."
+msgstr ""
+
+#: resources/resultados.py:608 resources/resultados.py:652
+#: resources/resultados.py:693 resources/resultados.py:743
+msgid ""
+"Se recomienda trabajar esta categoría en grupos en los que puedan existir"
+" desequilibrios socioeconómicos."
+msgstr ""
+
+#: resources/resultados.py:615 resources/resultados.py:701
+msgid ""
+"Se recomienda trabajar esta categoría en grupos de nueva creación donde "
+"los integrantes no se conozcan."
+msgstr ""
+
+#: resources/resultados.py:622 resources/resultados.py:709
+msgid ""
+"Se recomienda trabajar esta categoría en grupos donde se observen "
+"configuraciones sociométricas de grupos aislados (islas, parejas, "
+"triángulos en clique) o cadenas."
+msgstr ""
+
+#: resources/resultados.py:630 resources/resultados.py:637
+#: resources/resultados.py:644 resources/resultados.py:651
+#: resources/resultados.py:658 resources/resultados.py:665
+#: resources/resultados.py:673
+msgid "El índice de disociación (ID) es alto."
+msgstr ""
+
+#: resources/resultados.py:631 resources/resultados.py:719
+msgid ""
+"Se recomienda trabajar esta categoría en grupos donde las respuestas a "
+"los rechazos se motiven en actitudes de “falta de educación” “falta de "
+"agradecimiento o ayuda” expresado con respuestas tipo “me contesta mal”, "
+"“me chincha”, etc."
+msgstr ""
+
+#: resources/resultados.py:638 resources/resultados.py:727
+msgid ""
+"Se recomienda trabajar esta categoría en grupos donde se observen "
+"configuraciones sociométricas de grupos o islas enfrentadas."
+msgstr ""
+
+#: resources/resultados.py:659 resources/resultados.py:751
+msgid ""
+"Se recomienda trabajar esta categoría en grupos donde los rechazos puedan"
+" estar motivados por falta de confianza."
+msgstr ""
+
+#: resources/resultados.py:666
+msgid ""
+"Se recomienda trabajar esta categoría en grupos donde frecuentemente se "
+"justifiquen los rechazos en conductas molestas por parte de los "
+"compañeros o compañeras, falta de respeto a las normas, turnos de "
+"palabra, etc."
+msgstr ""
+
+#: resources/resultados.py:674 resources/resultados.py:767
+msgid ""
+"Se recomienda trabajar esta categoría en grupos donde se observen "
+"configuraciones sociométricas de grupos enfrentados."
+msgstr ""
+
+#: resources/resultados.py:680 resources/resultados.py:3219
+#: resources/resultados.py:3817
+msgid "Muy bajo"
+msgstr ""
+
+#: resources/resultados.py:684 resources/resultados.py:691
+#: resources/resultados.py:699 resources/resultados.py:707
+msgid ""
+"El índice de cohesión (IC) y el de actividad positiva (IAP) del grupo son"
+" muy bajos."
+msgstr ""
+
+#: resources/resultados.py:713 resources/resultados.py:3840
+msgid "Muy alto"
+msgstr ""
+
+#: resources/resultados.py:717 resources/resultados.py:725
+#: resources/resultados.py:733 resources/resultados.py:741
+#: resources/resultados.py:749 resources/resultados.py:757
+#: resources/resultados.py:765
+msgid ""
+"El índice de disociación (ID) y el de actividad negativa (IAN) son muy "
+"altos."
+msgstr ""
+
+#: resources/resultados.py:759
+msgid ""
+"Se recomienda trabajar esta categoría en grupos en los que frecuentemente"
+" se justifiquen los rechazos en conductas molestas por parte de los "
+"compañeros o compañeras, falta de respeto a las normas, turnos de "
+"palabra, etc."
+msgstr ""
+
+#: resources/resultados.py:786 resources/resultados.py:794
+#: resources/resultados.py:807 resources/resultados.py:818
+#: resources/resultados.py:977 resources/resultados.py:988
+#: resources/resultados.py:999 resources/resultados.py:1010
+#: resources/resultados.py:1044 resources/resultados.py:1054
+#: resources/resultados.py:1091 resources/resultados.py:1110
+#: resources/resultados.py:1120 resources/resultados.py:1156
+#: resources/resultados.py:1209 resources/resultados.py:1219
+#: resources/resultados.py:1253 resources/resultados.py:1264
+#: resources/resultados.py:1274 resources/resultados.py:1312
+#: resources/resultados.py:1323 resources/resultados.py:1333
+#: resources/resultados.py:1367 resources/resultados.py:1377
+msgid "Entre "
+msgstr ""
+
+#: resources/resultados.py:786 resources/resultados.py:794
+#: resources/resultados.py:807 resources/resultados.py:818
+#: resources/resultados.py:977 resources/resultados.py:988
+#: resources/resultados.py:999 resources/resultados.py:1010
+msgid " y el grupo "
+msgstr ""
+
+#: resources/resultados.py:787 resources/resultados.py:796
+msgid ""
+"Su estatus de elecciones positivas (SP) y su nivel medio de popularidad "
+"(NP) son bajos."
+msgstr ""
+
+#: resources/resultados.py:788
+msgid ""
+"Cuando se dé la circunstancia de la multiculturalidad (raza, etnia, "
+"religión, etc.)"
+msgstr ""
+
+#: resources/resultados.py:798 resources/resultados.py:1270
+msgid ""
+"Cuando se den las circunstancias de diversidad funcional o singularidad "
+"física o psíquica, identidad de género, diferencias socioeconómicas, etc."
+msgstr ""
+
+#: resources/resultados.py:810 resources/resultados.py:821
+#: resources/resultados.py:830
+msgid ""
+"El número de compañeros por los que se cree elegido (PP) es bajo y su "
+"percepción acertada de ese número (PAP) es alta."
+msgstr ""
+
+#: resources/resultados.py:812
+msgid ""
+"Se dé la circunstancia de ser un alumno de nueva incorporación o "
+"desconocido para el grupo."
+msgstr ""
+
+#: resources/resultados.py:842
+msgid ""
+"El número de compañeros por los que se cree elegido (PP) es bajo y su "
+"percepción acertada de ese número (PAP) es baja."
+msgstr ""
+
+#: resources/resultados.py:854 resources/resultados.py:863
+msgid "No tiene elecciones recíprocas positivas (RP) o amistades."
+msgstr ""
+
+#: resources/resultados.py:856
+msgid ""
+"Cuando un alumno no tiene amistades (RP) se debe potenciar las cualidades"
+" positivas del alumno en el grupo."
+msgstr ""
+
+#: resources/resultados.py:865
+msgid ""
+"Cuando un alumno no tiene amistades (RP) y se dé la circunstancia de ser "
+"un alumno de nueva incorporación o tenga una personalidad introvertida, "
+"puede tener una posición sociométrica de aislado o marginado."
+msgstr ""
+
+#: resources/resultados.py:875
+msgid ""
+"El número de compañeros por los que se cree rechazado o percepción "
+"negativa (PN) es alta y su percepción acertada de ese número (PAN) es "
+"baja."
+msgstr ""
+
+#: resources/resultados.py:887
+msgid ""
+"El número de compañeros por los que se cree rechazado o percepción "
+"negativa (PN) es alta y su percepción acertada de ese número (PAN) es "
+"alta, motivado en cuestiones de conducta molesta."
+msgstr ""
+
+#: resources/resultados.py:898 resources/resultados.py:907
+#: resources/resultados.py:916 resources/resultados.py:1370
+#: resources/resultados.py:1380
+msgid ""
+"La cantidad de veces que es nombrado/a por sus compañeros en las "
+"categorías de carácter negativo o el índice de preferencia social "
+"negativa (IPN) es alto."
+msgstr ""
+
+#: resources/resultados.py:900
+msgid "Cuando el índice afecta al atributo de \"triste\" o similar."
+msgstr ""
+
+#: resources/resultados.py:909
+msgid "Cuando el índice afecta al atributo de \"molestar\" o similar."
+msgstr ""
+
+#: resources/resultados.py:918
+msgid "Cuando el índice afecta al atributo de \"pesado\" o similar."
+msgstr ""
+
+#: resources/resultados.py:927
+msgid ""
+"Su estatus de eleccions negativas (SN) y su nivel medio de rechazo (NN) "
+"son altos"
+msgstr ""
+
+#: resources/resultados.py:929
+msgid ""
+"Alumnado con posiciones sociométricas de rechazado parcial o total y con "
+"índice de rechazo (SN) alto en el que las respuestas al “por qué” del "
+"rechazo sean similares a “porque me molesta”  y cuestiones de molestia "
+"acerca de su conducta."
+msgstr ""
+
+#: resources/resultados.py:938
+msgid ""
+"El número de compañeros que se creen elegidos por él/ella o su impresión "
+"positiva (IP) es baja y el nivel medio de impresión que tiene el grupo de"
+" ser elegido por él/ella (IMP) es bajo"
+msgstr ""
+
+#: resources/resultados.py:940
+msgid "El grupo no se cree escogido por el alumno o alumna."
+msgstr ""
+
+#: resources/resultados.py:960
+msgid " lo/la elige"
+msgstr ""
+
+#: resources/resultados.py:967
+msgid ""
+"Contradicción entre la expectativa de ser rechazado por determinados "
+"compañeros o compañeras cuando en realidad han sido elegidos por ellos"
+msgstr ""
+
+#: resources/resultados.py:969
+msgid " cuando el pensaba ser rechazado/a."
+msgstr ""
+
+#: resources/resultados.py:980 resources/resultados.py:991
+#: resources/resultados.py:1002 resources/resultados.py:1013
+msgid "La suma de sus elecciones positivas o expansividad positiva (EP) es baja"
+msgstr ""
+
+#: resources/resultados.py:982
+msgid "Puede tener una posición sociométrica de solitario."
+msgstr ""
+
+#: resources/resultados.py:993 resources/resultados.py:1060
+msgid ""
+"Si se dan las circunstancias de diversidad funcional o singularidad "
+"física o psíquica, identidad de género, diferencias socioeconómicas, etc."
+" en él o en su entorno."
+msgstr ""
+
+#: resources/resultados.py:1004
+msgid "Si se da la circunstancia de ser un alumno de nueva incorporación."
+msgstr ""
+
+#: resources/resultados.py:1047 resources/resultados.py:1057
+msgid ""
+"La suma de sus elecciones negativas o su expansividad negativa (EN) es "
+"alta."
+msgstr ""
+
+#: resources/resultados.py:1082
+msgid " piensa que lo/la rechaza por el motivo \""
+msgstr ""
+
+#: resources/resultados.py:1085
+msgid " piensa que lo/la rechaza"
+msgstr ""
+
+#: resources/resultados.py:1094
+msgid ""
+"El número de compañeros que se creen rechazados por él/ella o su "
+"impresión negativa (IN) es alta y el nivel medio de impresión que tiene "
+"el grupo de ser rechazado por él/ella (IMN) es alto."
+msgstr ""
+
+#: resources/resultados.py:1113 resources/resultados.py:1123
+msgid ""
+"Tienen oposición de sentimientos (OS) de tal forma que un alumno o alumna"
+" escoge a otro que lo rechaza."
+msgstr ""
+
+#: resources/resultados.py:1159
+msgid ""
+"Contradicción entre la expectativa de ser elegido por determinados "
+"compañeros o compañeras cuando en realidad han sido rechazados por ellos."
+msgstr ""
+
+#: resources/resultados.py:1161
+msgid " cuando pensaba ser elegido/a."
+msgstr ""
+
+#: resources/resultados.py:1212
+msgid "Existe enemistad o rechazos recíprocos (RN) entre ellos."
+msgstr ""
+
+#: resources/resultados.py:1222
+msgid ""
+"Cuando existan enemistad o rechazos recíprocos (RN) entre ellos y cuando "
+"se den las circunstancias de diversidad funcional o singularidad física o"
+" psíquica, identidad de género, diferencias socioeconómicas, etc."
+msgstr ""
+
+#: resources/resultados.py:1256 resources/resultados.py:1267
+#: resources/resultados.py:1277
+msgid ""
+"Su estatus de eleccions negativas (SN) y su nivel medio de rechazo (NN) "
+"son altos."
+msgstr ""
+
+#: resources/resultados.py:1259
+msgid ""
+"Cuando se dé la circunstancia de la multiculturalidad (raza, etnia, "
+"religión, etc.)."
+msgstr ""
+
+#: resources/resultados.py:1280
+msgid ""
+"En preguntas de ámbito formal en las que las justificaciones de los "
+"rechazos se basen en que determinado alumno o alumna no realiza su parte "
+"de trabajo de grupo."
+msgstr ""
+
+#: resources/resultados.py:1302 resources/resultados.py:1305
+msgid "Piensa que"
+msgstr ""
+
+#: resources/resultados.py:1315
+msgid ""
+"El número de compañeros por los que se cree rechazado o percepción "
+"negativa (PN) es alta y su percepción acertada de ese número (PAN) es "
+"alta."
+msgstr ""
+
+#: resources/resultados.py:1318
+msgid ""
+"Cuando un alumno tenga un índice de percepción negativa alto y un índice "
+"de acierto alto y se dé la circunstancia de la multiculturalidad (raza, "
+"etnia, religión, etc.)."
+msgstr ""
+
+#: resources/resultados.py:1326
+msgid ""
+"El número de compañeros por los que se cree rechazado o percepción "
+"negativa (PN) es alta y su percepción acertada de ese número (PAN) es "
+"alta y se dan las circunstancias de diversidad funcional o singularidad "
+"física o psíquica, identidad de género, diferencias socioeconómicas, etc."
+msgstr ""
+
+#: resources/resultados.py:1336
+msgid ""
+"El número de compañeros por los que se cree rechazado o percepción "
+"negativa (PN) es alta y su percepción acertada de ese número (PAN) es "
+"alta en preguntas de ámbtio formal."
+msgstr ""
+
+#: resources/resultados.py:1358
+msgid " lo/la eligió por el motivo \""
+msgstr ""
+
+#: resources/resultados.py:1361
+msgid " lo/la eligió"
+msgstr ""
+
+#: resources/resultados.py:1373
+msgid "Cuando el índice afecta al atributo de \"no respeta\" o similar."
+msgstr ""
+
+#: resources/resultados.py:1383
+msgid ""
+"Cuando el índice afecta al atributo de \"no trabaja\" o \"no colabora\" o"
+" similar."
+msgstr ""
+
+#: resources/resultados.py:1894 resources/resultados.py:1911
+#: resources/resultados.py:1936 resources/resultados.py:1953
+#: resources/resultados.py:1985 resources/resultados.py:2014
+msgid "FUERTE"
+msgstr ""
+
+#: resources/resultados.py:1900 resources/resultados.py:1917
+#: resources/resultados.py:1942 resources/resultados.py:1959
+#: resources/resultados.py:1993 resources/resultados.py:2022
+msgid "MEDIA"
+msgstr ""
+
+#: resources/resultados.py:1903 resources/resultados.py:1920
+#: resources/resultados.py:1945 resources/resultados.py:1962
+#: resources/resultados.py:1997 resources/resultados.py:2026
+msgid "DESIQUILIBRADA"
+msgstr ""
+
+#: resources/resultados.py:1906 resources/resultados.py:1923
+#: resources/resultados.py:1948 resources/resultados.py:1965
+#: resources/resultados.py:2000 resources/resultados.py:2030
+msgid "DÉBIL"
+msgstr ""
+
+#: resources/resultados.py:2220 resources/resultados.py:2569
+#: resources/resultados.py:2600 resources/resultados.py:2634
+#: resources/resultados.py:2738 resources/resultados.py:2843
+msgid "No hay"
+msgstr ""
+
+#: resources/resultados.py:2314
+msgid "Informe de {0} {1}"
+msgstr ""
+
+#: resources/resultados.py:2333 resources/test.py:374
+msgid "Alias"
+msgstr ""
+
+#: resources/resultados.py:2335 resources/test.py:374
+msgid "DNI"
+msgstr ""
+
+#: resources/resultados.py:2337 resources/test.py:374
+msgid "Fecha de nacimiento"
+msgstr ""
+
+#: resources/resultados.py:2339 resources/test.py:375
+msgid "Sexo"
+msgstr ""
+
+#: resources/resultados.py:2341
+msgid "Clase"
+msgstr ""
+
+#: resources/resultados.py:2344 resources/resultados.py:3431
+msgid "Tutor responsable"
+msgstr ""
+
+#: resources/resultados.py:2346 resources/resultados.py:3433
+msgid "Nombre del test"
+msgstr ""
+
+#: resources/resultados.py:2348 resources/resultados.py:3435
+msgid "Fecha de creación del test"
+msgstr ""
+
+#: resources/resultados.py:2359
+msgid "Resultados de las preguntas"
+msgstr ""
+
+#: resources/resultados.py:2371
+msgid "Pregunta"
+msgstr ""
+
+#: resources/resultados.py:2371
+msgid "Tipo"
+msgstr ""
+
+#: resources/resultados.py:2394
+msgid "¿Por qué?"
+msgstr ""
+
+#: resources/resultados.py:2429
+msgid "Análisis de resultados"
+msgstr ""
+
+#: resources/resultados.py:2439
+msgid "1.- POSICIÓN SOCIOMÉTRICA (SP, SN, EP Y EN)"
+msgstr ""
+
+#: resources/resultados.py:2441
+msgid "1.- POSICIÓN SOCIOMÉTRICA (SP Y SN)"
+msgstr ""
+
+#: resources/resultados.py:2443
+msgid "1.- POSICIÓN SOCIOMÉTRICA (EP Y EN)"
+msgstr ""
+
+#: resources/resultados.py:2475
+msgid "POSICIÓN SOC"
+msgstr ""
+
+#: resources/resultados.py:2490
+msgid "2.- ESTATUS POSITIVO (SP) Y NIVEL MEDIO DE POPULARIDAD (NP)"
+msgstr ""
+
+#: resources/resultados.py:2492
+msgid "2.- ESTATUS POSITIVO (SP)"
+msgstr ""
+
+#: resources/resultados.py:2499
+msgid "NIVEL SP"
+msgstr ""
+
+#: resources/resultados.py:2501
+msgid "VALOR NP"
+msgstr ""
+
+#: resources/resultados.py:2520
+msgid "3.- ESTATUS NEGATIVO (SN) Y NIVEL MEDIO DE RECHAZO (NN)"
+msgstr ""
+
+#: resources/resultados.py:2522
+msgid "3.- ESTATUS NEGATIVO (SN)"
+msgstr ""
+
+#: resources/resultados.py:2528
+msgid "NIVEL SN"
+msgstr ""
+
+#: resources/resultados.py:2530
+msgid "VALOR NN"
+msgstr ""
+
+#: resources/resultados.py:2548
+msgid "4.- AMISTADES (RP)"
+msgstr ""
+
+#: resources/resultados.py:2555 resources/resultados.py:2586
+#: resources/resultados.py:2724 resources/resultados.py:2830
+msgid "NOMBRE"
+msgstr ""
+
+#: resources/resultados.py:2556 resources/resultados.py:2587
+#: resources/resultados.py:2620 resources/resultados.py:2725
+#: resources/resultados.py:2831
+msgid "GRADO"
+msgstr ""
+
+#: resources/resultados.py:2579
+msgid "5.- ENEMISTADES (RN)"
+msgstr ""
+
+#: resources/resultados.py:2611
+msgid "6.- OPOSICIÓN DE SENTIMIENTO (OS)"
+msgstr ""
+
+#: resources/resultados.py:2618
+msgid "ELIGE"
+msgstr ""
+
+#: resources/resultados.py:2619
+msgid "RECHAZA"
+msgstr ""
+
+#: resources/resultados.py:2645
+msgid "7.- GRADO DE SOCIABILIDAD O EXPANSIVIDAD (EP)"
+msgstr ""
+
+#: resources/resultados.py:2651
+msgid "VALOR EP"
+msgstr ""
+
+#: resources/resultados.py:2652
+msgid "NIVEL EP"
+msgstr ""
+
+#: resources/resultados.py:2669
+msgid "8.- EXPECTATIVA DE SER ELEGIDO (PP)"
+msgstr ""
+
+#: resources/resultados.py:2675
+msgid "VALOR PP"
+msgstr ""
+
+#: resources/resultados.py:2676
+msgid "NIVEL PP"
+msgstr ""
+
+#: resources/resultados.py:2692
+msgid "9.- GRADO DE ACIERTO EN LA EXPECTATIVA DE SER ELEGIDO (PAP)"
+msgstr ""
+
+#: resources/resultados.py:2698
+msgid "VALOR PAP"
+msgstr ""
+
+#: resources/resultados.py:2699
+msgid "NIVEL PAP"
+msgstr ""
+
+#: resources/resultados.py:2717
+msgid ""
+"10.- OPOSICIÓN ENTRE LA EXPECTATIVA DE SER ELEGIDO Y LA REALIDAD DE SER "
+"RECHAZADO (OIP)"
+msgstr ""
+
+#: resources/resultados.py:2750
+msgid "11.- GRADO DE ANTIPATÍA (EN)"
+msgstr ""
+
+#: resources/resultados.py:2756
+msgid "VALOR EN"
+msgstr ""
+
+#: resources/resultados.py:2757
+msgid "NIVEL EN"
+msgstr ""
+
+#: resources/resultados.py:2774
+msgid "12.- EXPECTATIVA DE SER RECHAZADO (PN)"
+msgstr ""
+
+#: resources/resultados.py:2780
+msgid "VALOR PN"
+msgstr ""
+
+#: resources/resultados.py:2781
+msgid "NIVEL PN"
+msgstr ""
+
+#: resources/resultados.py:2798
+msgid "13.- GRADO DE ACIERTO EN LA EXPECTATIVA DE SER RECHAZADO (PAN)"
+msgstr ""
+
+#: resources/resultados.py:2804
+msgid "VALOR PAN"
+msgstr ""
+
+#: resources/resultados.py:2805
+msgid "NIVEL PAN"
+msgstr ""
+
+#: resources/resultados.py:2823
+msgid ""
+"14.- OPOSICIÓN ENTRE LA EXPECTATIVA DE SER RECHAZADO A LA REALIDAD DE SER"
+" ELEGIDO (OIN)"
+msgstr ""
+
+#: resources/resultados.py:2856
+msgid "15.- IMPRESIÓN QUE TIENE EL GRUPO DE SER ELEGIDO POR EL/ELLA (IP E IMP)"
+msgstr ""
+
+#: resources/resultados.py:2862
+msgid "VALOR IP"
+msgstr ""
+
+#: resources/resultados.py:2863
+msgid "NIVEL IP"
+msgstr ""
+
+#: resources/resultados.py:2865
+msgid "VALOR IMP"
+msgstr ""
+
+#: resources/resultados.py:2866
+msgid "NIVEL IMP"
+msgstr ""
+
+#: resources/resultados.py:2886
+msgid "16.- IMPRESIÓN QUE TIENE EL GRUPO DE SER RECHAZADO POR EL/ELLA (IN E IMN)"
+msgstr ""
+
+#: resources/resultados.py:2892
+msgid "VALOR IN"
+msgstr ""
+
+#: resources/resultados.py:2893
+msgid "NIVEL IN"
+msgstr ""
+
+#: resources/resultados.py:2895
+msgid "VALOR IMN"
+msgstr ""
+
+#: resources/resultados.py:2896
+msgid "NIVEL IMN"
+msgstr ""
+
+#: resources/resultados.py:2916
+msgid "17.- NIVEL DE PREFERENCIA SOCIAL POSITIVA (IPP): LÍDER"
+msgstr ""
+
+#: resources/resultados.py:2922
+msgid "VALOR IPP"
+msgstr ""
+
+#: resources/resultados.py:2923
+msgid "NIVEL IPP"
+msgstr ""
+
+#: resources/resultados.py:2939
+msgid "18.- NIVEL DE PREFERENCIA SOCIAL NEGATIVA (IPN): PESADO"
+msgstr ""
+
+#: resources/resultados.py:2945
+msgid "VALOR IPN"
+msgstr ""
+
+#: resources/resultados.py:2946
+msgid "NIVEL IPN"
+msgstr ""
+
+#: resources/resultados.py:2966
+msgid "Propuesta de intervención"
+msgstr ""
+
+#: resources/resultados.py:2970 resources/resultados.py:4089
+msgid "Áreas"
+msgstr ""
+
+#: resources/resultados.py:3409
+msgid "Informe de grupo {0}"
+msgstr ""
+
+#: resources/resultados.py:3426
+msgid "Colegio"
+msgstr ""
+
+#: resources/resultados.py:3428
+msgid "Curso y Grupo"
+msgstr ""
+
+#: resources/resultados.py:3445
+msgid "Alumnos"
+msgstr ""
+
+#: resources/resultados.py:3450 resources/test.py:375
+msgid "Código"
+msgstr ""
+
+#: resources/resultados.py:3451 resources/test.py:374
+msgid "Nombre"
+msgstr ""
+
+#: resources/resultados.py:3452
+msgid "Responde"
+msgstr ""
+
+#: resources/resultados.py:3462
+msgid "Sí"
+msgstr ""
+
+#: resources/resultados.py:3464
+msgid "No"
+msgstr ""
+
+#: resources/resultados.py:3476
+msgid "Leyenda de Colores"
+msgstr ""
+
+#: resources/resultados.py:3481
+msgid "Significado"
+msgstr ""
+
+#: resources/resultados.py:3482
+msgid "Color"
+msgstr ""
+
+#: resources/resultados.py:3529
+msgid "Preguntas"
+msgstr ""
+
+#: resources/resultados.py:3588
+msgid "Grafo Pregunta "
+msgstr ""
+
+#: resources/resultados.py:3598
+msgid "Cálculo de variables"
+msgstr ""
+
+#: resources/resultados.py:3602
+msgid "Matriz pregunta tipo 1"
+msgstr ""
+
+#: resources/resultados.py:3663
+msgid "Se eligen mutuamente"
+msgstr ""
+
+#: resources/resultados.py:3676
+msgid "Matriz pregunta tipo 2"
+msgstr ""
+
+#: resources/resultados.py:3737
+msgid "Se rechazan mutuamente"
+msgstr ""
+
+#: resources/resultados.py:3751
+msgid "Matrices preguntas tipo 1 y 2"
+msgstr ""
+
+#: resources/resultados.py:3797
+msgid "Índices grupales"
+msgstr ""
+
+#: resources/resultados.py:3847
+msgid "Matriz pregunta tipo 3"
+msgstr ""
+
+#: resources/resultados.py:3912
+msgid "Matriz pregunta tipo 4"
+msgstr ""
+
+#: resources/resultados.py:4005
+msgid "Cree que lo eligen y acierta"
+msgstr ""
+
+#: resources/resultados.py:4013
+msgid "Cree que lo rechazan y acierta"
+msgstr ""
+
+#: resources/resultados.py:4031
+msgid "Matriz pregunta tipo 5"
+msgstr ""
+
+#: resources/resultados.py:4059
+msgid "Matriz pregunta tipo 6"
+msgstr ""
+
+#: resources/resultados.py:4087
+msgid "Propuesta de intervención grupal"
+msgstr ""
+
+#: resources/test.py:334
+msgid "seguimiento"
+msgstr ""
+
+#: resources/test.py:374
+msgid "Apellidos"
+msgstr ""
+
+#: venv/Lib/site-packages/click/_termui_impl.py:496
+msgid "{editor}: Editing failed"
+msgstr ""
+
+#: venv/Lib/site-packages/click/_termui_impl.py:500
+msgid "{editor}: Editing failed: {e}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1097
+msgid "Aborted!"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1282
+#: venv/Lib/site-packages/click/decorators.py:495
+msgid "Show this message and exit."
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1313
+#: venv/Lib/site-packages/click/core.py:1339
+msgid "(Deprecated) {text}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1357
+msgid "Options"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1385
+msgid "Got unexpected extra argument ({args})"
+msgid_plural "Got unexpected extra arguments ({args})"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/Lib/site-packages/click/core.py:1398
+msgid "DeprecationWarning: The command {name!r} is deprecated."
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1605
+msgid "Commands"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1637
+msgid "Missing command."
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:1715
+msgid "No such command {name!r}."
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:2271
+msgid "Value must be an iterable."
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:2293
+msgid "Takes {nargs} values but 1 was given."
+msgid_plural "Takes {nargs} values but {len} were given."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/Lib/site-packages/click/core.py:2734
+msgid "env var: {var}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:2764
+msgid "(dynamic)"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:2777
+msgid "default: {default}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/core.py:2790
+msgid "required"
+msgstr ""
+
+#: venv/Lib/site-packages/click/decorators.py:400
+#, python-format
+msgid "%(prog)s, version %(version)s"
+msgstr ""
+
+#: venv/Lib/site-packages/click/decorators.py:464
+msgid "Show the version and exit."
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:43
+#: venv/Lib/site-packages/click/exceptions.py:79
+msgid "Error: {message}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:71
+msgid "Try '{command} {option}' for help."
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:120
+msgid "Invalid value: {message}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:122
+msgid "Invalid value for {param_hint}: {message}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:178
+msgid "Missing argument"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:180
+msgid "Missing option"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:182
+msgid "Missing parameter"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:184
+msgid "Missing {param_type}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:191
+msgid "Missing parameter: {param_name}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:211
+msgid "No such option: {name}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:225
+msgid "Did you mean {possibility}?"
+msgid_plural "(Possible options: {possibilities})"
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/Lib/site-packages/click/exceptions.py:261
+msgid "unknown error"
+msgstr ""
+
+#: venv/Lib/site-packages/click/exceptions.py:268
+msgid "Could not open file {filename!r}: {message}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/parser.py:231
+msgid "Argument {name!r} takes {nargs} values."
+msgstr ""
+
+#: venv/Lib/site-packages/click/parser.py:413
+msgid "Option {name!r} does not take a value."
+msgstr ""
+
+#: venv/Lib/site-packages/click/parser.py:473
+msgid "Option {name!r} requires an argument."
+msgid_plural "Option {name!r} requires {nargs} arguments."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/Lib/site-packages/click/shell_completion.py:315
+msgid "Shell completion is not supported for Bash versions older than 4.4."
+msgstr ""
+
+#: venv/Lib/site-packages/click/shell_completion.py:322
+msgid "Couldn't detect Bash version, shell completion is not supported."
+msgstr ""
+
+#: venv/Lib/site-packages/click/termui.py:160
+msgid "Repeat for confirmation"
+msgstr ""
+
+#: venv/Lib/site-packages/click/termui.py:176
+msgid "Error: The value you entered was invalid."
+msgstr ""
+
+#: venv/Lib/site-packages/click/termui.py:178
+msgid "Error: {e.message}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/termui.py:189
+msgid "Error: The two entered values do not match."
+msgstr ""
+
+#: venv/Lib/site-packages/click/termui.py:245
+msgid "Error: invalid input"
+msgstr ""
+
+#: venv/Lib/site-packages/click/termui.py:776
+msgid "Press any key to continue..."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:265
+msgid ""
+"Choose from:\n"
+"\t{choices}"
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:299
+msgid "{value!r} is not {choice}."
+msgid_plural "{value!r} is not one of {choices}."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/Lib/site-packages/click/types.py:389
+msgid "{value!r} does not match the format {format}."
+msgid_plural "{value!r} does not match the formats {formats}."
+msgstr[0] ""
+msgstr[1] ""
+
+#: venv/Lib/site-packages/click/types.py:409
+msgid "{value!r} is not a valid {number_type}."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:465
+msgid "{value} is not in the range {range}."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:606
+msgid "{value!r} is not a valid boolean."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:630
+msgid "{value!r} is not a valid UUID."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:811
+msgid "file"
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:813
+msgid "directory"
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:815
+msgid "path"
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:861
+msgid "{name} {filename!r} does not exist."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:870
+msgid "{name} {filename!r} is a file."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:878
+msgid "{name} '{filename}' is a directory."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:887
+msgid "{name} {filename!r} is not readable."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:896
+msgid "{name} {filename!r} is not writable."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:905
+msgid "{name} {filename!r} is not executable."
+msgstr ""
+
+#: venv/Lib/site-packages/click/types.py:971
+msgid "{len_type} values are required, but {len_value} was given."
+msgid_plural "{len_type} values are required, but {len_value} were given."
+msgstr[0] ""
+msgstr[1] ""
+
+msgid "Adivina quién ayuda más a sus compañeros y compañeras."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera más feliz."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera más listo o lista de la clase."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera más triste."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera que sabe comunicarse mejor y que le entienden y escuchen con más facilidad."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera que tiene capacidad para atender y escuchar a los demás."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera que tiene capacidad para resolver conflictos entre los compañeros y compañeras."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera que tiene más amigos y amigas."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera que tiene menos amigos y amigas."
+msgstr ""
+
+msgid "Adivina quién es el compañero o compañera que tiene problemas para comunicarse."
+msgstr ""
+
+msgid "Adivina quién es el niño o la niña al que más quiere la profesora o profesor."
+msgstr ""
+
+msgid "Adivina quién es el niño o la niña al que menos quiere la profesora o el profesor."
+msgstr ""
+
+msgid "Adivina quién es el o la que menos sabe en clase."
+msgstr ""
+
+msgid "Adivina quién es más maleducado o maleducada con los compañeros y compañeras."
+msgstr ""
+
+msgid "Adivina quién molesta más a sus compañeros y compañeras."
+msgstr ""
+
+msgid "Adivina quién tiene capacidad para resolver conflictos entre los compañeros y compañeras."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que crees que tiene más amigos en facebook."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que crees que tiene más seguidores en twitter o instagram."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que crees que tiene menos amigos en facebook."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que crees que tiene menos seguidores en twitter o instagram."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que cuando llega a los grupos molesta, no comparte ni respeta, e intenta que todos hagan las cosas a su manera."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que empieza las peleas, se mete con los demás, les empuja o les pega."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que es elegido como líder, como niño o niña más popular de la clase."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que es muy agradable, cordial y realmente bueno o buena para trabajar en equipo."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que es muy agradable, cordial y realmente bueno o buena para trabajar en equipo. Coopera, ayuda, comparte y respeta los turnos."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que es muy tímido o tímida con los demás, siempre juega o trabaja solo o sola y es más difícil llegar a conocer."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que molesta más a los demás."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que no comparte ni respeta a los demás."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que se mete con los demás."
+msgstr ""
+
+msgid "Dime aquel compañero o compañera que siempre pide ayuda para hacer cualquier cosa, incluso antes de haberlo intentado."
+msgstr ""
+
+msgid "Dime quién es el compañero o compañera que trolea en las redes sociales para reirse de los demás."
+msgstr ""
+
+msgid "Si pudieras invitar a una fiesta, una excursión, un partido a algunos amigos de clase, ¿a qué personas de la clase NO invitarías? ¿Por qué?"
+msgstr ""
+
+msgid "Si pudieras invitar a una fiesta, una excursión, un partido a algunos amigos y amigas de clase, ¿a qué personas de la clase invitarías?"
+msgstr ""
+
+msgid "Si pudieras invitar a una fista, una excursión, un partido a algunos amigos de clase, ¿a quiénes invitarías?"
+msgstr ""
+
+msgid "Si pudieses invitar a una fiesta, una excursión, un partido a algunos amigos o amigas de clase, ¿a quién o quiénes NO invitarías?¿Por qué?"
+msgstr ""
+
+msgid "Si tuvieses que escoger un grupo de compañeros para hacer una obra de teatro, ¿a quiénes NO escogerías? ¿Por qué?"
+msgstr ""
+
+msgid "Si tuvieses que escoger un grupo de compañeros y compañeras para hacer una obra de teatro, ¿a quiénes escogerías?"
+msgstr ""
+
+msgid "¿A qué compañero o compañera NO llamarías para quedar una tarde? ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras elegirías para hacer un trabajo en grupo?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras escogerías para formar un equipo de baloncesto en educación física?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras mandarías una solicitud de amistad por facebook?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras NO elegirías para hacer un trabajo en grupo? ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras NO mandarías una solicitud de amistad en facebook? ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras NO pedirías consejo ante un problema personal? ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras NO seguirías en istagram o twitter? ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras pedirías consejo ante problemas personales?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras pedirías consejo ante un problema personal?"
+msgstr ""
+
+msgid "¿A qué compañeros o compañeras seguirías en istagram o twitter?"
+msgstr ""
+
+msgid "¿A qué personas de la clase crees que les pareces simpático?"
+msgstr ""
+
+msgid "¿A qué personas de la clase crees que NO les pareces simpático o simpática?  ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué personas de la clase invitarías a tu cumpleaños?"
+msgstr ""
+
+msgid "¿A qué personas de la clase NO invitarías a tu cumpleaños? ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué personas de tu clase crees que les gustaría ir al cine contigo?"
+msgstr ""
+
+msgid "¿A qué personas de tu clase crees que les gustaría ir al cine el próximo viernes contigo?"
+msgstr ""
+
+msgid "¿A qué personas de tu clase crees que les gustaría quedar a estudiar contigo?"
+msgstr ""
+
+msgid "¿A qué personas de tu clase crees que NO les gustaría ir al cine contigo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué personas de tu clase crees que NO les gustaría quedar para estudiar contigo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿A qué personas NO elegirías para hacer un trabajo de clase? ¿Por qué?"
+msgstr ""
+
+msgid "¿Con qué compañeros o compañeras NO te gustaría quedar para estudiar? ¿Por qué?"
+msgstr ""
+
+msgid "¿Con qué compañeros o compañeras NO te gustaría sentarte en el aula?¿Por qué?"
+msgstr ""
+
+msgid "¿Con qué compañeros o compañeras prefiers NO encontrarte en un cumpleaños? ¿Por qué?"
+msgstr ""
+
+msgid "¿Con qué compañeros o compañeras te gustaría quedar para estudiar?"
+msgstr ""
+
+msgid "¿Con qué compañeros o compañeras te gustaría sentarte en el aula?"
+msgstr ""
+
+msgid "¿Con qué personas de la clase irías al cine el próximo viernes?"
+msgstr ""
+
+msgid "¿Con qué personas de la clase NO te gusta trabajar o NO elegirías para hacer un trabjo de clase? ¿Por qué?"
+msgstr ""
+
+msgid "¿Con qué personas de la clase prefieres trabajar o elegirías para hacer un trabajo de clase?"
+msgstr ""
+
+msgid "¿Con qué personas prefieres estar juntos en el recreo?"
+msgstr ""
+
+msgid "¿Con qué personas prefieres jugar en el recreo?"
+msgstr ""
+
+msgid "¿Con qué personas prefieres NO jugar en el recreo?¿Por qué?"
+msgstr ""
+
+msgid "¿Con quién irias al cine el próximo viernes?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que NO quieren sentarse en el aula contigo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que NO te escogerían para hacer una obra de teatro con ellos?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que NO te mandarían una solicitud de amistad por facebook?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que NO te pedirían consejo ante un problema personal?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que NO te seguirían en instagram o twitter?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que quieren sentarse en el aula contigo?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que te escogerían para hacer una obra de teatro con ellos?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que te mandarían una solicitud de amistad por facebook?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que te pedirían consejo ante un problema personal?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras crees que te seguirían en istagram o twitter?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras NO te parecen simpáticos? ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué compañeros o compañeras te parecen más simpáticos?"
+msgstr ""
+
+msgid "¿Qué niños o niñas crees que NO te escogerían para estar juntos en el recreo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué niños o niñas crees que NO te escogerían para jugar en el el recreo? ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué niños o niñas crees que te escogerían para jugar en el recreo?"
+msgstr ""
+
+msgid "¿Qué niños o niñas cress que te escogerían para estar juntos en el recreo?"
+msgstr ""
+
+msgid "¿Qué personas de tu clase crees que NO les gustaría ir al cine contigo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué personas de tu clase crees que NO te echarían de menos si cambiases de colegio?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué personas de tu clase crees que NO te invitarían a una fiesta, una excursión, o un partido?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Qué personas de tu clase crees que te invitarían a una fiesta, a una excursión, o a un partido?"
+msgstr ""
+
+msgid "¿Qué personas de tu clase cress que te invitarían a una fiesta, una excursión, o un partido?"
+msgstr ""
+
+msgid "¿Qué personas de tu clase echarías de menos si no estuviesen?"
+msgstr ""
+
+msgid "¿Qué persosnas de tu clase crees que te echarían de menos si cambiases de colegio?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que NO te escogen como amigo o amiga?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que NO te han elegido como compañero o compañera de trabajo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que NO te han elegido para formar un grupo de trabajo?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que NO te han elegido para hacer un trabajo de aula? ¿Por qué?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que NO te van a invitar a su cumpleaños?  ¿Por qué?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que te escogen como mejor amigo o mejor amiga?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que te han elegido para formar un grupo de trabajo?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que te han elegido para hacer un trabajo de aula?"
+msgstr ""
+
+msgid "¿Quién o quiénes crees que te van a  invitar a su cumpleaños?"
+msgstr ""
+
+msgid "¿Quiénes son los compañeros o compañeras de tu clase con los que NO te gustaría seguir el curso que viene? ¿Por qué?"
+msgstr ""
+
+msgid "¿Quiénes son los compañeros o compañeras de tu clase con los que te gustaría seguir el curso que viene?"
+msgstr ""
+
+msgid "¿Quienes son tus mejores amigos y amigas?"
+msgstr ""
+

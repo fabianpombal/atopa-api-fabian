@@ -1,0 +1,14 @@
+[Unit]
+Description=Lanzar la api de atopa
+
+[Service]
+Type=simple
+User=root
+Environment="ENV_JWT=/home/pln-gti/atopa-api/.env"
+WorkingDirectory=/home/pln-gti/atopa-api/
+ExecStart=/home/pln-gti/atopa-api/venv/bin/python3 /home/pln-gti/atopa-api/run.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
